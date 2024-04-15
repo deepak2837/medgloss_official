@@ -1,0 +1,4238 @@
+[
+  {
+    "index": 1,
+    "type": "MBBS",
+    "universityName": "Pondicherry University",
+    "collegeName": "Andaman & Nicobar Islands Institute of Medical Sciences, Port Blair"
+  },
+  {
+    "index": 2,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "ACSR Government Medical College Nellore"
+  },
+  {
+    "index": 3,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Mangalagiri, Vijayawada"
+  },
+  {
+    "index": 4,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Alluri Sitaram Raju Academy of Medical Sciences, Eluru"
+  },
+  {
+    "index": 5,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Andhra Medical College, Visakhapatnam"
+  },
+  {
+    "index": 6,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Apollo Institute of Medical Sciences and Research, Chittoor"
+  },
+  {
+    "index": 7,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Dr. P.S.I. Medical College , Chinoutpalli"
+  },
+  {
+    "index": 8,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Fathima Instt. of Medical Sciences,Kadapa"
+  },
+  {
+    "index": 9,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Gayathri Vidya Parishad Institute of Health Care & Medical Technology, Visakhapatnam"
+  },
+  {
+    "index": 10,
+    "type": "MBBS",
+    "universityName": "Gandhi Institute of Technology and Management (GITAM University) Deemed, Visakhapatnam",
+    "collegeName": "GITAM Institute of Medical Sciences and Research, Visakhapatnam"
+  },
+  {
+    "index": 11,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Ananthapuram"
+  },
+  {
+    "index": 12,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Eluru"
+  },
+  {
+    "index": 13,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Kadapa"
+  },
+  {
+    "index": 14,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Machilipatnam"
+  },
+  {
+    "index": 15,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Nandyal"
+  },
+  {
+    "index": 16,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Ongole (Previously known as Rajiv Gandhi Institute of Medical Sciences, Ongole,)"
+  },
+  {
+    "index": 17,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Rajamahendravaram"
+  },
+  {
+    "index": 18,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Vizianagaram"
+  },
+  {
+    "index": 19,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Siddhartha Medical College, Vijaywada"
+  },
+  {
+    "index": 20,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Great Eastern Medical School and Hospital,Srikakulam"
+  },
+  {
+    "index": 21,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "GSL Medical College, Rajahmundry"
+  },
+  {
+    "index": 22,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Guntur Medical College, Guntur"
+  },
+  {
+    "index": 23,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Katuri Medical College, Guntur"
+  },
+  {
+    "index": 24,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Konaseema Institute of Medical Sciences & Research Foundation, Amalapuram"
+  },
+  {
+    "index": 25,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Kurnool Medical College, Kurnool"
+  },
+  {
+    "index": 26,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Maharajah Institute of Medical Sciences, Vizianagaram"
+  },
+  {
+    "index": 27,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Narayana Medical College, Nellore"
+  },
+  {
+    "index": 28,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Nimra Institute of Medical Sciences, Krishna Dist., A.P."
+  },
+  {
+    "index": 29,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "NRI Institute of Medical Sciences, Visakhapatnam"
+  },
+  {
+    "index": 30,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "NRI Medical College, Guntur"
+  },
+  {
+    "index": 31,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "P E S Institute Of Medical Sciences and Research, Kuppam"
+  },
+  {
+    "index": 32,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Rajiv Gandhi Institute of Medical Sciences, Srikakulam"
+  },
+  {
+    "index": 33,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Rangaraya Medical College, Kakinada"
+  },
+  {
+    "index": 34,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Santhiram Medical College, Nandyal"
+  },
+  {
+    "index": 35,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Sri Balaji Medical College, Hospital and Research Institute, Chittoor"
+  },
+  {
+    "index": 36,
+    "type": "MBBS",
+    "universityName": "Sri Venkateswara Institute of Medical Sciences (SVIMS), Tirupati",
+    "collegeName": "SVIMS - Sri Padmavathi Medical College for Women, Alipiri Road, Tirupati"
+  },
+  {
+    "index": 37,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "S V Medical College, Tirupati"
+  },
+  {
+    "index": 38,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Viswabharathi Medical College, Kurnool"
+  },
+  {
+    "index": 39,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University",
+    "collegeName": "Tomo Riba Institute of Health & Medical Sciences, Naharlagun"
+  },
+  {
+    "index": 40,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS (Guwahati)\t",
+    "collegeName": "All India Institute of Medical Sciences, Guwahati"
+  },
+  {
+    "index": 41,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Assam Medial College, Dibrugarh"
+  },
+  {
+    "index": 42,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Dhubri Medical College, Dhubri"
+  },
+  {
+    "index": 43,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Diphu Medical College & Hospital, Diphu, Assam"
+  },
+  {
+    "index": 44,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Fakhruddin Ali Ahmed Medical College, Barpeta, Assam"
+  },
+  {
+    "index": 45,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Gauhati Medical College, Guwahati"
+  },
+  {
+    "index": 46,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Jorhat Medical College & Hospital , Jorhat"
+  },
+  {
+    "index": 47,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Kokrajhar Medical College"
+  },
+  {
+    "index": 48,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Lakhimpur Medical College"
+  },
+  {
+    "index": 49,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Nagaon Medical College"
+  },
+  {
+    "index": 50,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Nalbari Medical College, Nalbari"
+  },
+  {
+    "index": 51,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Silchar Medical College, Silchar"
+  },
+  {
+    "index": 52,
+    "type": "MBBS",
+    "universityName": "Srimanta Shankardeva University of Health Sciences",
+    "collegeName": "Tezpur Medical College & Hospital, Tezpur"
+  },
+  {
+    "index": 53,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Patna"
+  },
+  {
+    "index": 54,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Anugrah Narayan Magadh Medical College, Gaya"
+  },
+  {
+    "index": 55,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Bhagwan Mahavir Institute of Medical Sciences, Pawapuri (Formely known as Vardhman Institute of Medical Sciences, Pawapuri)"
+  },
+  {
+    "index": 56,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Darbhanga Medical College, Lehriasarai"
+  },
+  {
+    "index": 57,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Employees State Insurance Corporation Medical College,Patna"
+  },
+  {
+    "index": 58,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Government Medical College, Bettiah"
+  },
+  {
+    "index": 59,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Government Medical College, Purnea"
+  },
+  {
+    "index": 60,
+    "type": "MBBS",
+    "universityName": "Indira Gandhi Instt of Medical Sciences (Deemed University), Patna ",
+    "collegeName": "Indira Gandhi Institute of Medical Sciences,Sheikhpura, Patna"
+  },
+  {
+    "index": 61,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Jannayak Karpoori Thakur Medical College & Hospital, Madhepura, Bihar"
+  },
+  {
+    "index": 62,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Jawaharlal Nehru Medical College, Bhagalpur"
+  },
+  {
+    "index": 63,
+    "type": "MBBS",
+    "universityName": "Al-Karim University, Katihar",
+    "collegeName": "Katihar Medical College, Katihar"
+  },
+  {
+    "index": 64,
+    "type": "MBBS",
+    "universityName": "B.N. Mandal University",
+    "collegeName": "Lord Buddha Koshi Medical College and Hospital, Saharsa"
+  },
+  {
+    "index": 65,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Madhubani Medical College, Madhubani"
+  },
+  {
+    "index": 66,
+    "type": "MBBS",
+    "universityName": "B.N. Mandal University",
+    "collegeName": "Mata Gujri Memorial Medical College, Kishanganj"
+  },
+  {
+    "index": 67,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Nalanda Medical College, Patna"
+  },
+  {
+    "index": 68,
+    "type": "MBBS",
+    "universityName": "Gopal Narayan Singh University",
+    "collegeName": "Narayan Medical College & Hospital, Sasaram"
+  },
+  {
+    "index": 69,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Netaji Subhas Medical College & Hospital, Amhara, Bihta, Patna"
+  },
+  {
+    "index": 70,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Patna Medical College, Patna"
+  },
+  {
+    "index": 71,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Radha Devi Jageshwari Memorial Medical College and Hospital"
+  },
+  {
+    "index": 72,
+    "type": "MBBS",
+    "universityName": "Bhupendra Narayan Mandal University, Madhepura",
+    "collegeName": "Shree Narayan Medical Institute and Hospital"
+  },
+  {
+    "index": 73,
+    "type": "MBBS",
+    "universityName": "Aryabhatta Knowledge University, Patna",
+    "collegeName": "Shri Krishna Medical College, Muzzafarpur"
+  },
+  {
+    "index": 74,
+    "type": "MBBS",
+    "universityName": "Punjab University",
+    "collegeName": "Government Medical College, Chandigarh"
+  },
+  {
+    "index": 75,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(Raipur)",
+    "collegeName": "All India Institute of Medical Sciences, Raipur"
+  },
+  {
+    "index": 76,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Chandulal Chandrakar Memorial Govt. Medical College, Durg"
+  },
+  {
+    "index": 77,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Chhattisgarh Institute of Medical Sciences, Bilaspur"
+  },
+  {
+    "index": 78,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Government Medical College (Bharat Ratna Shri Atal Bihari Vajpyee Memorial Med. Col.), Rajnandgaon"
+  },
+  {
+    "index": 79,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Government Medical College, Kanker"
+  },
+  {
+    "index": 80,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Government Medical College, Korba"
+  },
+  {
+    "index": 81,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Government Medical College, Mahasamund"
+  },
+  {
+    "index": 82,
+    "type": "MBBS",
+    "universityName": "Pt.Ravishankar Shukla University (Prev. Ravishankar University),Raipur",
+    "collegeName": "Late Shri Baliram Kashyap Memorial NDMC Govt. Medical College, Jagdalpur"
+  },
+  {
+    "index": 83,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Late Shri Lakhi Ram Agrawal Memorial Govt. Medical College, Raigarh"
+  },
+  {
+    "index": 84,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Pt. J N M Medical College, Raipur"
+  },
+  {
+    "index": 85,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Raipur Institute of Medical Sciences (RIMS), Raipur"
+  },
+  {
+    "index": 86,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Rajmata Shrimati Devendra kumari Singhdeo Government Medical College, Surguja ( C.G.)"
+  },
+  {
+    "index": 87,
+    "type": "MBBS",
+    "universityName": "Pandit Deendayal Upadhyay Memorial Health Science & Ayush University of Chattisgarh",
+    "collegeName": "Shri Balaji Institute of Medical Science"
+  },
+  {
+    "index": 88,
+    "type": "MBBS",
+    "universityName": "Pt. Deendayal Upadhyay Memorial Health Sciences and Ayush University, Raipur",
+    "collegeName": "Shri Shankaracharya Institute of Medical Sciences, Bhilai"
+  },
+  {
+    "index": 89,
+    "type": "MBBS",
+    "universityName": "Veer Narmad South Gujarat University",
+    "collegeName": "NAMO Medical Education and Research Institute, Silvassa"
+  },
+  {
+    "index": 90,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, New Delhi"
+  },
+  {
+    "index": 91,
+    "type": "MBBS",
+    "universityName": "Guru Gobind Singh Indraprastha University",
+    "collegeName": "Army College of Medical Sciences, New Delhi"
+  },
+  {
+    "index": 92,
+    "type": "MBBS",
+    "universityName": "Guru Gobind Singh Indraprastha University",
+    "collegeName": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi"
+  },
+  {
+    "index": 93,
+    "type": "MBBS",
+    "universityName": "Guru Gobind Singh Indraprastha University",
+    "collegeName": "Dr. Baba Saheb Ambedkar Medical College, Rohini, Delhi"
+  },
+  {
+    "index": 94,
+    "type": "MBBS",
+    "universityName": "University of Jamia Hamdard (Hamdard University)",
+    "collegeName": "Hamdard Institute of Medical Sciences & Research, New Delhi"
+  },
+  {
+    "index": 95,
+    "type": "MBBS",
+    "universityName": "Delhi University",
+    "collegeName": "Lady Hardinge Medical College, New Delhi"
+  },
+  {
+    "index": 96,
+    "type": "MBBS",
+    "universityName": "Delhi University",
+    "collegeName": "Maulana Azad Medical College, New Delhi"
+  },
+  {
+    "index": 97,
+    "type": "MBBS",
+    "universityName": "Guru Gobind Singh Indraprastha University",
+    "collegeName": "North Delhi Muncipal Corporation Medical College, Delhi"
+  },
+  {
+    "index": 98,
+    "type": "MBBS",
+    "universityName": "Delhi University",
+    "collegeName": "University College of Medical Sciences & GTB Hospital, New Delhi"
+  },
+  {
+    "index": 99,
+    "type": "MBBS",
+    "universityName": "Guru Gobind Singh Indraprastha University",
+    "collegeName": "Vardhman Mahavir Medical College & Safdarjung Hospital, Delhi"
+  },
+  {
+    "index": 100,
+    "type": "MBBS",
+    "universityName": "Goa University",
+    "collegeName": "Goa Medical College, Panaji"
+  },
+  {
+    "index": 101,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS (Rajkot)\t",
+    "collegeName": "All India Institute of Medical Sciences, Rajkot"
+  },
+  {
+    "index": 102,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "Ananya College of Medicine & Research"
+  },
+  {
+    "index": 103,
+    "type": "MBBS",
+    "universityName": "Hemchandracharya North Gujarat University,Patan",
+    "collegeName": "Banas Medical College and Research Institute, Palanpur, Gujarat"
+  },
+  {
+    "index": 104,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "B J Medical College, Ahmedabad"
+  },
+  {
+    "index": 105,
+    "type": "MBBS",
+    "universityName": "Saurashtra University",
+    "collegeName": "CU Shah Medical College, Surendra Nagar"
+  },
+  {
+    "index": 106,
+    "type": "MBBS",
+    "universityName": "Veer Narmad South Gujarat University",
+    "collegeName": "Dr.Kiran C.Patel Medical College and Research Institute"
+  },
+  {
+    "index": 107,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "Dr. M.K. Shah Medical College & Research Centre, Ahmedabad"
+  },
+  {
+    "index": 108,
+    "type": "MBBS",
+    "universityName": "Dharmsinh Desai University, Nadiad",
+    "collegeName": "Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad"
+  },
+  {
+    "index": 109,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "GCS Medical College, Ahmedabad"
+  },
+  {
+    "index": 110,
+    "type": "MBBS",
+    "universityName": "Hemchandracharya North Gujarat University,Patan",
+    "collegeName": "GMERS Medical College, Dharpur Patan"
+  },
+  {
+    "index": 111,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "GMERS Medical College, Gandhinagar"
+  },
+  {
+    "index": 112,
+    "type": "MBBS",
+    "universityName": "MS University of Baroda ",
+    "collegeName": "GMERS Medical College, Gotri, Vadodara"
+  },
+  {
+    "index": 113,
+    "type": "MBBS",
+    "universityName": "Hemchandracharya North Gujarat University,Patan",
+    "collegeName": "GMERS Medical College, Hadiyol, Himmatnagar"
+  },
+  {
+    "index": 114,
+    "type": "MBBS",
+    "universityName": "Saurashtra University",
+    "collegeName": "GMERS Medical College, Junagadh"
+  },
+  {
+    "index": 115,
+    "type": "MBBS",
+    "universityName": "Veer Narmad South Gujarat University",
+    "collegeName": "GMERS Medical College, Navsari"
+  },
+  {
+    "index": 116,
+    "type": "MBBS",
+    "universityName": "Veer Narmad South Gujarat University",
+    "collegeName": "GMERS Medical College, Rajpipla"
+  },
+  {
+    "index": 117,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "GMERS Medical College, Sola, Ahmedabad"
+  },
+  {
+    "index": 118,
+    "type": "MBBS",
+    "universityName": "Hemchandracharya North Gujarat University,Patan",
+    "collegeName": "GMERS Medical College, Vadnagar, Mehsana"
+  },
+  {
+    "index": 119,
+    "type": "MBBS",
+    "universityName": "Veer Narmad South Gujarat University",
+    "collegeName": "GMERS Medical College, Valsad"
+  },
+  {
+    "index": 120,
+    "type": "MBBS",
+    "universityName": "Maharaja Krishnakumarsinghji Bhavnagar University",
+    "collegeName": "Government Medical College, Bhavnagar"
+  },
+  {
+    "index": 121,
+    "type": "MBBS",
+    "universityName": "Saurashtra University, Rajkot ",
+    "collegeName": "Government Medical College, Morbi"
+  },
+  {
+    "index": 122,
+    "type": "MBBS",
+    "universityName": "Shri Govind Guru University, Godhara",
+    "collegeName": "Government Medical College, Panchmahal Godhra "
+  },
+  {
+    "index": 123,
+    "type": "MBBS",
+    "universityName": "Bhakta Kavi Narsing Mehta University, Bikha Roa, Khadia",
+    "collegeName": "Government Medical College, Porbandar"
+  },
+  {
+    "index": 124,
+    "type": "MBBS",
+    "universityName": "Veer Narmad South Gujarat University",
+    "collegeName": "Government Medical College, Surat"
+  },
+  {
+    "index": 125,
+    "type": "MBBS",
+    "universityName": "KSKV Kachchh University, Bhuj",
+    "collegeName": "Gujarat Adani Institute of Medical Sciences, Bhuj"
+  },
+  {
+    "index": 126,
+    "type": "MBBS",
+    "universityName": "Veer Narmad South Gujarat University",
+    "collegeName": "Kiran Medical College, Surat"
+  },
+  {
+    "index": 127,
+    "type": "MBBS",
+    "universityName": "MS University of Baroda ",
+    "collegeName": "Medical College, Baroda"
+  },
+  {
+    "index": 128,
+    "type": "MBBS",
+    "universityName": "Saurashtra University",
+    "collegeName": "MP Shah Medical College,Jamnagar"
+  },
+  {
+    "index": 129,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "Narendra Modi Medical College, Ahmedabad (Formely known as Ahmedabad Muncipal Coporation Medical Edu. Trust Medical College) "
+  },
+  {
+    "index": 130,
+    "type": "MBBS",
+    "universityName": "Sankalchand Patel University",
+    "collegeName": "Nootan Medical College and Research Centre, Mehsana"
+  },
+  {
+    "index": 131,
+    "type": "MBBS",
+    "universityName": "Saurashtra University",
+    "collegeName": "Pandit Deendayal Upadhyay Medical College, Rajkot"
+  },
+  {
+    "index": 132,
+    "type": "MBBS",
+    "universityName": "Parul University, Vadodara",
+    "collegeName": "Parul Institute of Medical Sciences & Research, Vadodara"
+  },
+  {
+    "index": 133,
+    "type": "MBBS",
+    "universityName": "Bhaikaka University ",
+    "collegeName": "Pramukhswami Medical College, Karmsad"
+  },
+  {
+    "index": 134,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "SAL Institute of Medical Sciences, Ahmedabad"
+  },
+  {
+    "index": 135,
+    "type": "MBBS",
+    "universityName": "Sumandeep Vidyapeeth University (Deemed), Vadodra",
+    "collegeName": "SBKS Medical Instt. & Research Centre, Vadodra"
+  },
+  {
+    "index": 136,
+    "type": "MBBS",
+    "universityName": "Saurashtra University",
+    "collegeName": "Shantabaa Medical College, Amreli"
+  },
+  {
+    "index": 137,
+    "type": "MBBS",
+    "universityName": "Gujarat University",
+    "collegeName": "Smt. N.H.L.Municipal Medical College, Ahmedabad"
+  },
+  {
+    "index": 138,
+    "type": "MBBS",
+    "universityName": "Veer Narmad South Gujarat University",
+    "collegeName": "Surat Municipal Institute of  Medical Education & Research, Surat"
+  },
+  {
+    "index": 139,
+    "type": "MBBS",
+    "universityName": "Swaminayaran University",
+    "collegeName": "Swaminayaran Institute of Medical Sciences & Research"
+  },
+  {
+    "index": 140,
+    "type": "MBBS",
+    "universityName": "Shri Govind Guru University, Godhara",
+    "collegeName": "Zydus Medical College & Hospital, Dahod"
+  },
+  {
+    "index": 141,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "Adesh Medical College and Hospital, Shahabad, Kurukshetra, Haryana"
+  },
+  {
+    "index": 142,
+    "type": "MBBS",
+    "universityName": "Al-Falah University",
+    "collegeName": "Al Falah School of Medical Sciences & Research Centre, Faridabad"
+  },
+  {
+    "index": 143,
+    "type": "MBBS",
+    "universityName": "Amrita Vishwa Vidyapeetham University (Deemed), Coimbatore",
+    "collegeName": "Amrita School of Medicine, Faridabad"
+  },
+  {
+    "index": 144,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "BPS Government Medical College for Women, Sonepat"
+  },
+  {
+    "index": 145,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "Employees State Insurance Corporation Medical College, Faridabad"
+  },
+  {
+    "index": 146,
+    "type": "MBBS",
+    "universityName": "SGT University, Gurugram",
+    "collegeName": "Faculty of Medicine and Health Sciences, Gurgaon (Formarly SGGST Medical College & R Centre,Gurgaon)"
+  },
+  {
+    "index": 147,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "Kalpana Chawala Govt. Medical College, Karnal, Haryana"
+  },
+  {
+    "index": 148,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "Maharaja Agrasen Medical College, Agroha"
+  },
+  {
+    "index": 149,
+    "type": "MBBS",
+    "universityName": "Maharishi Marakandeshwar University (Deemed), Ambala",
+    "collegeName": "Maharishi Markandeshwar College of Medical Sciences & Research, Sadopur"
+  },
+  {
+    "index": 150,
+    "type": "MBBS",
+    "universityName": "Maharishi Marakandeshwar University (Deemed), Ambala",
+    "collegeName": "Maharishi Markandeshwar Institute Of Medical Sciences & Research, Mullana, Ambala"
+  },
+  {
+    "index": 151,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "N.C. Medical College & Hospital, Panipat"
+  },
+  {
+    "index": 152,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "Pt. B D Sharma Postgraduate Institute of Medical Sciences, Rohtak (Haryana)"
+  },
+  {
+    "index": 153,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "Shaheed Hasan Khan Mewati Government Medical College, Nalhar"
+  },
+  {
+    "index": 154,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "Shri Atal Bihari Vajpayee Government Medical College, Faridabad"
+  },
+  {
+    "index": 155,
+    "type": "MBBS",
+    "universityName": "PT. B.D. Sharma University of Health Sciences, Rohtak",
+    "collegeName": "World College of Medical Sciences & Researc, Jhajjar, Haryana"
+  },
+  {
+    "index": 156,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS (Bilaspur)\t",
+    "collegeName": "All India Institute of Medical Sciences, Bilaspur"
+  },
+  {
+    "index": 157,
+    "type": "MBBS",
+    "universityName": "Himachal Pradesh University",
+    "collegeName": "Dr. Radhakrishnan Government Medical College, Hamirpur, H.P"
+  },
+  {
+    "index": 158,
+    "type": "MBBS",
+    "universityName": "Himachal Pradesh University",
+    "collegeName": "Dr. Rajendar Prasad Government Medical College, Tanda, H.P"
+  },
+  {
+    "index": 159,
+    "type": "MBBS",
+    "universityName": "Himachal Pradesh University",
+    "collegeName": "Government Medical College, Nahan, Sirmour H.P."
+  },
+  {
+    "index": 160,
+    "type": "MBBS",
+    "universityName": "Himachal Pradesh University",
+    "collegeName": "Indira Gandhi Medical College, Shimla"
+  },
+  {
+    "index": 161,
+    "type": "MBBS",
+    "universityName": "Maharishi Marakandeshwar University, Kumarhatti, Solan",
+    "collegeName": "Maharishi Markandeshwar Medical College & Hospital, Solan"
+  },
+  {
+    "index": 162,
+    "type": "MBBS",
+    "universityName": "Himachal Pradesh University",
+    "collegeName": "Pt. Jawahar Lal Nehru Government Medical College, Chamba"
+  },
+  {
+    "index": 163,
+    "type": "MBBS",
+    "universityName": "Himachal Pradesh University",
+    "collegeName": "Shri Lal Bahadur Shastri Government Medical College, Mandi, HP"
+  },
+  {
+    "index": 164,
+    "type": "MBBS",
+    "universityName": "Jammu University",
+    "collegeName": "Acharya Shri Chander College of Medical Sciences, Jammu"
+  },
+  {
+    "index": 165,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS (Vijaypur)\t",
+    "collegeName": "All India Institute of Medical Sciences, Vijaypur"
+  },
+  {
+    "index": 166,
+    "type": "MBBS",
+    "universityName": "Kashmir University",
+    "collegeName": "Government Medical College, Anantnag"
+  },
+  {
+    "index": 167,
+    "type": "MBBS",
+    "universityName": "Kashmir University",
+    "collegeName": "Government Medical College, Baramulla"
+  },
+  {
+    "index": 168,
+    "type": "MBBS",
+    "universityName": "University of Kashmir",
+    "collegeName": "Government Medical College, Handwara"
+  },
+  {
+    "index": 169,
+    "type": "MBBS",
+    "universityName": "Jammu University",
+    "collegeName": "Government Medical College, Jammu"
+  },
+  {
+    "index": 170,
+    "type": "MBBS",
+    "universityName": "Jammu University",
+    "collegeName": "Government Medical College, Kathua"
+  },
+  {
+    "index": 171,
+    "type": "MBBS",
+    "universityName": "Jammu University",
+    "collegeName": "Government Medical College, Rajouri, J&K"
+  },
+  {
+    "index": 172,
+    "type": "MBBS",
+    "universityName": "Kashmir University",
+    "collegeName": "Government Medical College, Srinagar"
+  },
+  {
+    "index": 173,
+    "type": "MBBS",
+    "universityName": "University of Jammu",
+    "collegeName": "Government Medical College, Udhampur"
+  },
+  {
+    "index": 174,
+    "type": "MBBS",
+    "universityName": "Kashmir University",
+    "collegeName": "Govt. Medical College, Doda, Kashmir"
+  },
+  {
+    "index": 175,
+    "type": "MBBS",
+    "universityName": "Deemed University, Jammu & Kashmir",
+    "collegeName": "Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar"
+  },
+  {
+    "index": 176,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(Deoghar)",
+    "collegeName": "All India Institute of Medical Sciences, Deoghar"
+  },
+  {
+    "index": 177,
+    "type": "MBBS",
+    "universityName": "Sidho Kanhu Murmu University",
+    "collegeName": "Dumka Medical College, Dighi Dumka"
+  },
+  {
+    "index": 178,
+    "type": "MBBS",
+    "universityName": "Binod Bihati Mahto Koyalanchal University, Dhanbad",
+    "collegeName": "Hazaribagh Medical College, Hazaribagh"
+  },
+  {
+    "index": 179,
+    "type": "MBBS",
+    "universityName": "Ramchandra Chandravansi University, Bishrampur, Palamu",
+    "collegeName": "Laxmi Chandravansi Medical College & Hospital"
+  },
+  {
+    "index": 180,
+    "type": "MBBS",
+    "universityName": "Manipal University, Manipal",
+    "collegeName": "Manipal Tata Medical College,Baridih Jameshedpur"
+  },
+  {
+    "index": 181,
+    "type": "MBBS",
+    "universityName": "Kolhan University, Chaibasa",
+    "collegeName": "M G M Medical College, Jamshedpur"
+  },
+  {
+    "index": 182,
+    "type": "MBBS",
+    "universityName": "Nilamber-Pitamber University",
+    "collegeName": "Palamu Medical College, Palamu"
+  },
+  {
+    "index": 183,
+    "type": "MBBS",
+    "universityName": "Ranchi University",
+    "collegeName": "Rajendra Institute of Medical Sciences, Ranchi"
+  },
+  {
+    "index": 184,
+    "type": "MBBS",
+    "universityName": "Binod Bihati Mahto Koyalanchal University, Dhanbad",
+    "collegeName": "Shahed Nirmal Mahto Medical College & Hospital, Dhanbad"
+  },
+  {
+    "index": 185,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Adichunchanagiri Institute of Medical Sciences Bellur"
+  },
+  {
+    "index": 186,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "A J Institute of Medical Sciences & Research Centre, Mangalore"
+  },
+  {
+    "index": 187,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Akash Institute of Medical Sciences & Research Centre, Devanhalli, Bangalore, Karnataka"
+  },
+  {
+    "index": 188,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Al-Ameen Medical College,Bijapur"
+  },
+  {
+    "index": 189,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Bangalore Medical College and Research Institute, Bangalore"
+  },
+  {
+    "index": 190,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Basaveswara Medical College and Hospital, Chitradurga"
+  },
+  {
+    "index": 191,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Belagavi Institute of Medical Sciences, Belagavi"
+  },
+  {
+    "index": 192,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "BGS Global Institute of Medical Sciences, Bangalore"
+  },
+  {
+    "index": 193,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Bidar Institute of Medical Sciences,Bidar"
+  },
+  {
+    "index": 194,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Chamrajanagar Institute of Medical Sciences, Karnataka"
+  },
+  {
+    "index": 195,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Chikkaballapura Institute of Medical Sciences"
+  },
+  {
+    "index": 196,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru"
+  },
+  {
+    "index": 197,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Chitradurga Medical College and Research Institute"
+  },
+  {
+    "index": 198,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Dr BR Ambedkar Medical College, Bangalore"
+  },
+  {
+    "index": 199,
+    "type": "MBBS",
+    "universityName": "Dayananda Sagar University, Bangalore\t",
+    "collegeName": "Dr. Chandramma Dayananda Sagar Instt. of Medical Education & Research, Harohalli, Hubli\t"
+  },
+  {
+    "index": 200,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "East Point College of Medical Sciences & Research Centre, Bangalore"
+  },
+  {
+    "index": 201,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Employees State Insurance Corporation Medical College, Bangalore"
+  },
+  {
+    "index": 202,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Employees State Insurance Corporation Medical College, Gulbarga"
+  },
+  {
+    "index": 203,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Father Mullers Medical College, Mangalore"
+  },
+  {
+    "index": 204,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Gadag Institute of Medical Sciences, Mallasamudra, Mulgund Road, Gadag"
+  },
+  {
+    "index": 205,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "G R Medical College Hospital & Research Centre"
+  },
+  {
+    "index": 206,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Gulbarga Institute of Medical Sciences, Gulbarga"
+  },
+  {
+    "index": 207,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Hassan Institute of Medical Sciences, Hassan"
+  },
+  {
+    "index": 208,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Haveri Institute of Medical Sciences, Haveri"
+  },
+  {
+    "index": 209,
+    "type": "MBBS",
+    "universityName": "KLE Academy of Higher Education & Research (Deemed), Belgaum",
+    "collegeName": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College JGMMMC"
+  },
+  {
+    "index": 210,
+    "type": "MBBS",
+    "universityName": "KLE Academy of Higher Education & Research (Deemed), Belgaum",
+    "collegeName": "Jawaharlal Nehru Medical College, Belgaum"
+  },
+  {
+    "index": 211,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "JJM Medical College, Davangere"
+  },
+  {
+    "index": 212,
+    "type": "MBBS",
+    "universityName": "JSS Academy of Higher Education & Research, Mysuru (formerly known as JSS University, Mysore)",
+    "collegeName": "JSS Medical College, Mysore"
+  },
+  {
+    "index": 213,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Kanachur Institute of Medical Sciences, Mangalore"
+  },
+  {
+    "index": 214,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Karnataka Institute of Medical Sciences, Hubballi"
+  },
+  {
+    "index": 215,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Karwar Institute of Medical Sciences, Karwar"
+  },
+  {
+    "index": 216,
+    "type": "MBBS",
+    "universityName": "Manipal Academy of Higher Education (Deemed University), Manipal",
+    "collegeName": "Kasturba Medical College, Mangalore"
+  },
+  {
+    "index": 217,
+    "type": "MBBS",
+    "universityName": "Manipal Academy of Higher Education (Deemed University), Manipal",
+    "collegeName": "Kasturba Medical College, Manipal"
+  },
+  {
+    "index": 218,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Kempegowda Institute of Medical Sciences, Bangalore"
+  },
+  {
+    "index": 219,
+    "type": "MBBS",
+    "universityName": "Khaja Bandanawaz University",
+    "collegeName": "Khaja Bandanawaz University - Faculty of Medical Sciences, Gulbarga"
+  },
+  {
+    "index": 220,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Kodagu Institute of Medical Sciences, Kodagu"
+  },
+  {
+    "index": 221,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Koppal Institute of Medical Sciences, Koppal"
+  },
+  {
+    "index": 222,
+    "type": "MBBS",
+    "universityName": "Nitte University (Deemed), Mangalore",
+    "collegeName": "K S Hegde Medical Academy, Mangalore"
+  },
+  {
+    "index": 223,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "K V G Medical College, Sullia"
+  },
+  {
+    "index": 224,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Mahadevappa Rampure Medical College, Kalaburagi, Gulbarga"
+  },
+  {
+    "index": 225,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Mandya Institute of Medical Sciences, Mandya"
+  },
+  {
+    "index": 226,
+    "type": "MBBS",
+    "universityName": "M.S. Ramaiah University of Applied Sciences, Bangalore.",
+    "collegeName": "M S Ramaiah Medical College, Bangalore"
+  },
+  {
+    "index": 227,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "MVJ Medical College and Research Hospital, Bangalore"
+  },
+  {
+    "index": 228,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Mysore Medical College and Research Instt. (Prev.name Government Medical College), Mysore"
+  },
+  {
+    "index": 229,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Navodaya Medical College, Raichur"
+  },
+  {
+    "index": 230,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Raichur Institute of Medical Sciences,Raichur"
+  },
+  {
+    "index": 231,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Rajarajeswari Medical College & Hospital, Bangalore"
+  },
+  {
+    "index": 232,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Sambharam Institute of Medical Sciences & Research, Kolar"
+  },
+  {
+    "index": 233,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Sapthagiri Institute of Medical Sciences & Research Centre, Bangalore"
+  },
+  {
+    "index": 234,
+    "type": "MBBS",
+    "universityName": "Shri Dharmasthala Manjunatheshwara University, Karnataka",
+    "collegeName": "SDM College of Medical Sciences & Hospital, Sattur, Dharwad"
+  },
+  {
+    "index": 235,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Shimoga Institute of Medical Sciences,Shimoga"
+  },
+  {
+    "index": 236,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Shri Atal Bihari Vajpayee Medical College & Research Institute"
+  },
+  {
+    "index": 237,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Shri B M Patil Medical College, Hospital & Research Centre, Vijayapura(Bijapur"
+  },
+  {
+    "index": 238,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Shridevi Institute of Medical Sciences & Research Hospital, Tumkur"
+  },
+  {
+    "index": 239,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Siddaganga Medical College and Research Institute, Tumakuru"
+  },
+  {
+    "index": 240,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "S. Nijalingappa Medical College & HSK Hospital & Research Centre, Bagalkot"
+  },
+  {
+    "index": 241,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Sri Chamundeshwari Medical College Hospital & Research Institute"
+  },
+  {
+    "index": 242,
+    "type": "MBBS",
+    "universityName": "Sri Devaraj Urs Academy of Higher Education and Research (Deemed University), Kolar",
+    "collegeName": "Sri Devaraj URS Medical College, Kolar"
+  },
+  {
+    "index": 243,
+    "type": "MBBS",
+    "universityName": "Sri Sathya Sai University for Human Excellence",
+    "collegeName": "Sri Madhusudan Sai Institute of Medical Sciences and Research"
+  },
+  {
+    "index": 244,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Srinivas Institute of Medical Research Centre, Srinivasnagar, mangalore"
+  },
+  {
+    "index": 245,
+    "type": "MBBS",
+    "universityName": "Sri Siddhartha Academy of Higher Education, Tumkur",
+    "collegeName": "Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore"
+  },
+  {
+    "index": 246,
+    "type": "MBBS",
+    "universityName": "Sri Siddhartha Academy of Higher Education, Tumkur",
+    "collegeName": "Sri Siddhartha Medical College, Tumkur"
+  },
+  {
+    "index": 247,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "S S Institute of Medical Sciences& Research Centre, Davangere"
+  },
+  {
+    "index": 248,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "St. Johns Medical College, Bangalore"
+  },
+  {
+    "index": 249,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Subbaiah Institute of Medical Sciences, Shimoga, Karnataka"
+  },
+  {
+    "index": 250,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "The Oxford Medical College, Hospital & Research Centre, Bangalore"
+  },
+  {
+    "index": 251,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Vijaynagar Institute of Medical Sciences, Bellary"
+  },
+  {
+    "index": 252,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Vydehi Institute Of Medical Sciences & Research Centre, Bangalore"
+  },
+  {
+    "index": 253,
+    "type": "MBBS",
+    "universityName": "Rajiv Gandhi University of Health Sciences, Karnataka\t",
+    "collegeName": "Yadgiri Institute of Medical Sciences,  Yadgiri"
+  },
+  {
+    "index": 254,
+    "type": "MBBS",
+    "universityName": "Yenepoya University (Deemed Manglore)",
+    "collegeName": "Yenepoya Medical College, Mangalore"
+  },
+  {
+    "index": 255,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Al-Azhar Medical College and Super Speciality Hospital, Thodupuzha"
+  },
+  {
+    "index": 256,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Amala Institute of Medical Sciences, Thrissur"
+  },
+  {
+    "index": 257,
+    "type": "MBBS",
+    "universityName": "Amrita Vishwa Vidyapeetham University (Deemed), Coimbatore",
+    "collegeName": "Amrita School of Medicine, Elamkara, Kochi"
+  },
+  {
+    "index": 258,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Azeezia Instt of Medical Science,Meeyannoor,Kollam"
+  },
+  {
+    "index": 259,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Believers Church Medical College Hospital, Thiruvalla, Kerala"
+  },
+  {
+    "index": 260,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Dr. Moopen s Medical College, Wayanad, Kerala"
+  },
+  {
+    "index": 261,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Dr. Somervel Memorial CSI Hospital & Medical College, Karakonam, Thiruvananthapuram"
+  },
+  {
+    "index": 262,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College, Ernakulam"
+  },
+  {
+    "index": 263,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College, Idukki."
+  },
+  {
+    "index": 264,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College (Institute of Integrated Medical Sciences), Yakkara, Palakkad"
+  },
+  {
+    "index": 265,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College, Konni"
+  },
+  {
+    "index": 266,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College, Kottayam"
+  },
+  {
+    "index": 267,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College, Kozhikode, Calicut"
+  },
+  {
+    "index": 268,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College, Manjeri, Malapuram Dist."
+  },
+  {
+    "index": 269,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College, Parippally, Kollam"
+  },
+  {
+    "index": 270,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Government Medical College, Thrissur"
+  },
+  {
+    "index": 271,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Govt. Medical College,Pariyaram, Kannur (Prev. Known as Academy of Medical Sciences)"
+  },
+  {
+    "index": 272,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Jubilee Mission Medical College & Research Institute, Thrissur"
+  },
+  {
+    "index": 273,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Kannur Medical College, Kannur"
+  },
+  {
+    "index": 274,
+    "type": "MBBS",
+    "universityName": "Calicut University",
+    "collegeName": "Karuna Medical College, Palakkad"
+  },
+  {
+    "index": 275,
+    "type": "MBBS",
+    "universityName": "Calicut University",
+    "collegeName": "KMCT Medical College,Kozhikode, Calicut"
+  },
+  {
+    "index": 276,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Malabar Medical College, Kozhikode,Calicut"
+  },
+  {
+    "index": 277,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Malankara Orthodox Syrian Church Medical College, Kolenchery"
+  },
+  {
+    "index": 278,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Medical College, Thiruvananthapuram"
+  },
+  {
+    "index": 279,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "M E S Medical College , Perintalmanna Malappuram Distt.Kerala"
+  },
+  {
+    "index": 280,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Mount Zion Medical College, Chayalode, Ezhamkulam Adoor, Pathanamthitta"
+  },
+  {
+    "index": 281,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "P K Das Institute of Medical Sciences, Palakkad, Kerala"
+  },
+  {
+    "index": 282,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Pushpagiri Institute Of Medical Sciences and Research Centre, Tiruvalla"
+  },
+  {
+    "index": 283,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Sree Gokulam Medical College  Trust & Research Foundation, Trivandrum"
+  },
+  {
+    "index": 284,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Sree Narayana Instt. of Medical Sciences, Chalakka,Ernakulam"
+  },
+  {
+    "index": 285,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Sree Uthradom Thiurnal Academy of Medical Sciences,Trivandrum"
+  },
+  {
+    "index": 286,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "T D Medical College, Alleppey (Allappuzha)"
+  },
+  {
+    "index": 287,
+    "type": "MBBS",
+    "universityName": "Kerala University of Health Sciences, Thrissur, Kerala",
+    "collegeName": "Travancore Medical College, Kollam"
+  },
+  {
+    "index": 288,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(Bhopal)",
+    "collegeName": "All India Institute of Medical Sciences, Bhopal"
+  },
+  {
+    "index": 289,
+    "type": "MBBS",
+    "universityName": "Amaltas University, Dewas",
+    "collegeName": "Amaltas Institute of Medical Sciences, Dewas"
+  },
+  {
+    "index": 290,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Bundelkhand Medical College, Sagar"
+  },
+  {
+    "index": 291,
+    "type": "MBBS",
+    "universityName": "Barkatullah University",
+    "collegeName": "Chirayu Medical College and Hospital, Bairagarh,Bhopal"
+  },
+  {
+    "index": 292,
+    "type": "MBBS",
+    "universityName": "Jiwaji University",
+    "collegeName": "Gajra Raja Medical College, Gwalior"
+  },
+  {
+    "index": 293,
+    "type": "MBBS",
+    "universityName": "Barkatullah University",
+    "collegeName": "Gandhi Medical College, Bhopal"
+  },
+  {
+    "index": 294,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Government Medical College, Chhindwara, MP"
+  },
+  {
+    "index": 295,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Government Medical College, Datia, MP"
+  },
+  {
+    "index": 296,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Government Medical College, Khandwa, MP"
+  },
+  {
+    "index": 297,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Government Medical College, Ratlam"
+  },
+  {
+    "index": 298,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Government Medical College, Satna"
+  },
+  {
+    "index": 299,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Government Medical College, Shahdol, MP"
+  },
+  {
+    "index": 300,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Government Medical College, Shivpuri, MP"
+  },
+  {
+    "index": 301,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Government Medical College, Vidisha, MP"
+  },
+  {
+    "index": 302,
+    "type": "MBBS",
+    "universityName": "Malwanchal University, Indore",
+    "collegeName": "Index Medical College Hospital & Research Centre,Indore"
+  },
+  {
+    "index": 303,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "LNCT Medical College & Sewakunj Hospital, Indore"
+  },
+  {
+    "index": 304,
+    "type": "MBBS",
+    "universityName": "LNCT University, Bhopal",
+    "collegeName": "L.N. Medical College and Research Centre,Bhopal"
+  },
+  {
+    "index": 305,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Mahaveer Institute of Medical Sciences & Research, Bhopal"
+  },
+  {
+    "index": 306,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "M G M Medical College, Indore"
+  },
+  {
+    "index": 307,
+    "type": "MBBS",
+    "universityName": "Rani Durgavati Vishwa Vidyalaya, Jabalpur",
+    "collegeName": "Netaji Subhash Chandra Bose Medical College, Jabalpur"
+  },
+  {
+    "index": 308,
+    "type": "MBBS",
+    "universityName": "Peoples University, Bhopal",
+    "collegeName": "Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal"
+  },
+  {
+    "index": 309,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Ram Krishna College Hospital & Research Centre, Bhopal"
+  },
+  {
+    "index": 310,
+    "type": "MBBS",
+    "universityName": "Barkatullah University",
+    "collegeName": "RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal"
+  },
+  {
+    "index": 311,
+    "type": "MBBS",
+    "universityName": "Vikram University, Ujjain",
+    "collegeName": "Ruxmaniben Deepchand Gardi Medical College, Ujjain"
+  },
+  {
+    "index": 312,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Shyam Shah Medical College, Rewa"
+  },
+  {
+    "index": 313,
+    "type": "MBBS",
+    "universityName": "Sri Aurobindo University",
+    "collegeName": "Sri Aurobindo Medical College and Post Graduate Institute , Indore"
+  },
+  {
+    "index": 314,
+    "type": "MBBS",
+    "universityName": "Madhya Pradesh Medical Science University, Jabalpur",
+    "collegeName": "Sukh Sagar Medical College & Hospital, Jabalpur"
+  },
+  {
+    "index": 315,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "ACPM Medical College, Dhule"
+  },
+  {
+    "index": 316,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Nagpur"
+  },
+  {
+    "index": 317,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Armed Forces Medical College, Pune"
+  },
+  {
+    "index": 318,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Ashwini Rural Medical College, Hospital & Research Centre, Solapur"
+  },
+  {
+    "index": 319,
+    "type": "MBBS",
+    "universityName": "Bharati  Vidyapeeth University (Deemed), Pune",
+    "collegeName": "Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli"
+  },
+  {
+    "index": 320,
+    "type": "MBBS",
+    "universityName": "Bharati  Vidyapeeth University (Deemed), Pune",
+    "collegeName": "Bharati Vidyapeeth University Medical College, Pune"
+  },
+  {
+    "index": 321,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Bharatratna Atal Bihari Vajpayee Medical College, Pune"
+  },
+  {
+    "index": 322,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "B. J.  Govt. Medical College, Pune"
+  },
+  {
+    "index": 323,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "B.K.L. Walawalkar Rural Medical College, Ratnagiri"
+  },
+  {
+    "index": 324,
+    "type": "MBBS",
+    "universityName": "Datta Meghe Institute of Higher Education & Research (Declared as Deemed to be University)",
+    "collegeName": "Datta Meghe Medical College, Nagpur"
+  },
+  {
+    "index": 325,
+    "type": "MBBS",
+    "universityName": "Dr. D Y Patil University (Deemed), Pimpri, Pune",
+    "collegeName": "Dr. D Y Patil Medical College, Hospital and Research Centre, Pimpri, Pune"
+  },
+  {
+    "index": 326,
+    "type": "MBBS",
+    "universityName": "D.Y. Patil Education Society (Deemed University), Kolhapur",
+    "collegeName": "Dr. D Y Patil Medical College, Kolhapur"
+  },
+  {
+    "index": 327,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Dr. N Y Tasgaonkar Institute of Medical Science"
+  },
+  {
+    "index": 328,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Dr. Panjabrao Alias Bhausaheb Deshmukh Memorial Medical College, Amravati"
+  },
+  {
+    "index": 329,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Dr. Rajendra Gode Medical College, Amravati"
+  },
+  {
+    "index": 330,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Dr. Shankarrao Chavan Govt. Medical College, Nanded"
+  },
+  {
+    "index": 331,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Dr. Ulhas Patil Medical College & Hospital, Jalgaon"
+  },
+  {
+    "index": 332,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Dr Vaishampayan Memorial Medical College, Solapur"
+  },
+  {
+    "index": 333,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Dr.Vasantrao Pawar Med. Col. Hosp. & Research Centre,Nasik (Prev. NDMVP Samaj Medical College)"
+  },
+  {
+    "index": 334,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Dr. Vithalrao Vikhe Patil Foundations Medical College & Hospital, Ahmednagar"
+  },
+  {
+    "index": 335,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Akola"
+  },
+  {
+    "index": 336,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Alibag"
+  },
+  {
+    "index": 337,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical college and District Hospital, Ratnagiri"
+  },
+  {
+    "index": 338,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Aurangabad"
+  },
+  {
+    "index": 339,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Chandrapur"
+  },
+  {
+    "index": 340,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Gondia"
+  },
+  {
+    "index": 341,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College & Hospital, Baramati"
+  },
+  {
+    "index": 342,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Jalgaon "
+  },
+  {
+    "index": 343,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Latur"
+  },
+  {
+    "index": 344,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Miraj"
+  },
+  {
+    "index": 345,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Nagpur"
+  },
+  {
+    "index": 346,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Nandurbar"
+  },
+  {
+    "index": 347,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Osmanabad"
+  },
+  {
+    "index": 348,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Parbhani"
+  },
+  {
+    "index": 349,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College ,Satara"
+  },
+  {
+    "index": 350,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Government Medical College, Sindhudurg"
+  },
+  {
+    "index": 351,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Grant Medical College, Mumbai"
+  },
+  {
+    "index": 352,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "H.B.T. Medical College & Dr. R.N. Cooper Municipal General Hospital, Juhu, Mumbai"
+  },
+  {
+    "index": 353,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Indian Institute of Medical Science & Research, Jalna"
+  },
+  {
+    "index": 354,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Indira Gandhi Medical College & Hospital, Nagpur"
+  },
+  {
+    "index": 355,
+    "type": "MBBS",
+    "universityName": "Datta Meghe Institute of Higher Education & Research (Declared as Deemed to be University)",
+    "collegeName": "Jawaharlal Nehru Medical College, Sawangi (Meghe), Wardha"
+  },
+  {
+    "index": 356,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "KJ Somaiyya Medical College & Research Centre, Mumbai"
+  },
+  {
+    "index": 357,
+    "type": "MBBS",
+    "universityName": "Krishna Vishwa Vidyapeeth, Karad, Maharashtra",
+    "collegeName": "Krishna Institute of Medical Sciences, Karad"
+  },
+  {
+    "index": 358,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Lokmanya Tilak Municipal Medical College, Sion, Mumbai"
+  },
+  {
+    "index": 359,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Maharashtra Institute of Medical Education & Research, Talegaon,Pune"
+  },
+  {
+    "index": 360,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Maharashtra Institute of Medical  Sciences & Research, Latur"
+  },
+  {
+    "index": 361,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha"
+  },
+  {
+    "index": 362,
+    "type": "MBBS",
+    "universityName": "MGM Institute of Health Sciences (Deemed University), Navi Mumbai",
+    "collegeName": "Mahatma Gandhi Mission Medical College, Vashi"
+  },
+  {
+    "index": 363,
+    "type": "MBBS",
+    "universityName": "MGM Institute of Health Sciences (Deemed University), Navi Mumbai",
+    "collegeName": "Mahatma Gandhi Missions Medical College, Aurangabad"
+  },
+  {
+    "index": 364,
+    "type": "MBBS",
+    "universityName": "MGM Institute of Health Sciences (Deemed University), Navi Mumbai",
+    "collegeName": "Mahatma Gandhi Missions Medical College, Navi Mumbai"
+  },
+  {
+    "index": 365,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "N. K. P. Salve Instt. of Medical Sciences and Research Centre and Lata Mangeshkar Hospital, Nagpur"
+  },
+  {
+    "index": 366,
+    "type": "MBBS",
+    "universityName": "Padmashree Dr. D Y Patil University (Deemed), Navi Mumbai",
+    "collegeName": "Padmashree Dr. D.Y.Patil Medical College, Navi Mumbai"
+  },
+  {
+    "index": 367,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Parbhani Medical College, Parbhani"
+  },
+  {
+    "index": 368,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Prakash Institute of Medical Sciences & Research, Sangli"
+  },
+  {
+    "index": 369,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Rajashree Chatrapati Shahu Maharaj Government Medical College, Kolhapur"
+  },
+  {
+    "index": 370,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane"
+  },
+  {
+    "index": 371,
+    "type": "MBBS",
+    "universityName": "Pravara Institute of Medical Sciences (Deemed University), Ahmednagar",
+    "collegeName": "Rural Medical College, Loni"
+  },
+  {
+    "index": 372,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Seth GS Medical College, and KEM Hospital, Mumbai"
+  },
+  {
+    "index": 373,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Shri Vasant Rao Naik Govt. Medical College, Yavatmal"
+  },
+  {
+    "index": 374,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Sindhudurg Shikshan Prasarak Mandal (SSPM) Medical College & Lifetime Hospital, Padave, Sindhudurg"
+  },
+  {
+    "index": 375,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "SMBT Institute of Medical Sciences & Research Centre, Nandihills, Nashik"
+  },
+  {
+    "index": 376,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Smt. Kashibai Navale Medical College and General Hospital,Pune"
+  },
+  {
+    "index": 377,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Sri Bhausaheb Hire Government Medical College, Dhule"
+  },
+  {
+    "index": 378,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "SRTR Medical College, Ambajogai"
+  },
+  {
+    "index": 379,
+    "type": "MBBS",
+    "universityName": "Symbiosis International (Deemed) University, pune",
+    "collegeName": "Symbiosis Medical College for Women, Pune"
+  },
+  {
+    "index": 380,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Terna Medical College, Navi Mumbai"
+  },
+  {
+    "index": 381,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Topiwala National Medical College, Mumbai"
+  },
+  {
+    "index": 382,
+    "type": "MBBS",
+    "universityName": "Maharashtra University of Health Sciences, Nashik",
+    "collegeName": "Vedantaa Institute of Medical Sciences, Palghar, Maharashtra"
+  },
+  {
+    "index": 383,
+    "type": "MBBS",
+    "universityName": "Manipur University",
+    "collegeName": "Government Medical College, Churachandpur"
+  },
+  {
+    "index": 384,
+    "type": "MBBS",
+    "universityName": "Manipur University",
+    "collegeName": "Jawaharlal Nehru Institute of Medical Sciences,Porompet,Imphal"
+  },
+  {
+    "index": 385,
+    "type": "MBBS",
+    "universityName": "Manipur University",
+    "collegeName": "Regional Institute of Medical Sciences, Imphal"
+  },
+  {
+    "index": 386,
+    "type": "MBBS",
+    "universityName": "Manipur University",
+    "collegeName": "Shija Academy of Health Sciences"
+  },
+  {
+    "index": 387,
+    "type": "MBBS",
+    "universityName": "North Eastern Hill University, Shillong",
+    "collegeName": "North Eastern Indira Gandhi Regional Instt. of Health and Medical Sciences, Shillong"
+  },
+  {
+    "index": 388,
+    "type": "MBBS",
+    "universityName": "Mizoram University",
+    "collegeName": "Zoram Medical College, Mizoram"
+  },
+  {
+    "index": 389,
+    "type": "MBBS",
+    "universityName": "Nagaland University",
+    "collegeName": "Nagaland Institute of Medical Sciences & Research"
+  },
+  {
+    "index": 390,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Bhubaneswar"
+  },
+  {
+    "index": 391,
+    "type": "MBBS",
+    "universityName": "MSCBD University, Baripada",
+    "collegeName": "Dharanidhar Medical College & Hospital (DDMCH), Keonjhar,"
+  },
+  {
+    "index": 392,
+    "type": "MBBS",
+    "universityName": "Utkal University",
+    "collegeName": "DRIEMS Institute of Health Sciences and Hospital, Kairapari"
+  },
+  {
+    "index": 393,
+    "type": "MBBS",
+    "universityName": "The Kalahandi university",
+    "collegeName": "Government Medical College Bhawanipatna"
+  },
+  {
+    "index": 394,
+    "type": "MBBS",
+    "universityName": "Sambalpur University",
+    "collegeName": "Government Medical College & Hospital (Renamed as Bhima Bhoi Medical College & Hospital), Balangir"
+  },
+  {
+    "index": 395,
+    "type": "MBBS",
+    "universityName": "Fakir Mohan Univeristy, Balasore",
+    "collegeName": "Government Medical College & Hospital (Renamed as Fakir Mohan Medical College & Hospital), Balasore"
+  },
+  {
+    "index": 396,
+    "type": "MBBS",
+    "universityName": "Sambalpur University",
+    "collegeName": "Government Medical College, Sundargarh"
+  },
+  {
+    "index": 397,
+    "type": "MBBS",
+    "universityName": "Utkal University",
+    "collegeName": "Hi-Tech Medical College & Hospital, Bhubaneswar"
+  },
+  {
+    "index": 398,
+    "type": "MBBS",
+    "universityName": "Sambalpur University",
+    "collegeName": "Hi-Tech Medical College & Hospital, Rourkela"
+  },
+  {
+    "index": 399,
+    "type": "MBBS",
+    "universityName": "Siksha O Anusandhan University,Bhubaneswar",
+    "collegeName": "Instt. Of Medical Sciences & SUM Hospital, Bhubaneswar"
+  },
+  {
+    "index": 400,
+    "type": "MBBS",
+    "universityName": "KIIT University (Deemed), Bhubaneswar",
+    "collegeName": "Kalinga Institute of Medical Sciences, Bhubaneswar"
+  },
+  {
+    "index": 401,
+    "type": "MBBS",
+    "universityName": "Berhampur University",
+    "collegeName": "MKCG Medical College, Berhampur"
+  },
+  {
+    "index": 402,
+    "type": "MBBS",
+    "universityName": "North Odisha University, Baripada, Odisha",
+    "collegeName": "Pt. Raghunath Murmu Medical College and Hospital, Baripada, Odisha"
+  },
+  {
+    "index": 403,
+    "type": "MBBS",
+    "universityName": "Berhampur University",
+    "collegeName": "Saheed Laxman Nayak Medical College & Hospital, Koraput"
+  },
+  {
+    "index": 404,
+    "type": "MBBS",
+    "universityName": "Utkal University",
+    "collegeName": "SCB Medical College, Cuttack"
+  },
+  {
+    "index": 405,
+    "type": "MBBS",
+    "universityName": "Utkal University",
+    "collegeName": "Sri Jagannath Medical College & Hospital, Puri"
+  },
+  {
+    "index": 406,
+    "type": "MBBS",
+    "universityName": "Sambalpur University",
+    "collegeName": "Veer Surendra Sai Institute of Medical Sciences and Research, Burla"
+  },
+  {
+    "index": 407,
+    "type": "MBBS",
+    "universityName": "Vinayaka Missions University (Deemed), Salem",
+    "collegeName": "Aarupadai Veedu Medical College, Pondicherry"
+  },
+  {
+    "index": 408,
+    "type": "MBBS",
+    "universityName": "Pondicherry University",
+    "collegeName": "Indira Gandhi Medical College & Research Institute, Puducherry"
+  },
+  {
+    "index": 409,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, Puducherry",
+    "collegeName": "Jawaharlal Institute of Postgraduate Medical Education & Research, Puducherry"
+  },
+  {
+    "index": 410,
+    "type": "MBBS",
+    "universityName": "Sri Balaji Vidyapeeth (Deemed University), Pondicherry ",
+    "collegeName": "Mahatma Gandhi Medical College & Research Institute, Pondicherry"
+  },
+  {
+    "index": 411,
+    "type": "MBBS",
+    "universityName": "Pondicherry University",
+    "collegeName": "Pondicherry Institute of Medical Sciences & Research, Pondicherry"
+  },
+  {
+    "index": 412,
+    "type": "MBBS",
+    "universityName": "Bharath Institute of Higher Education & Research (Deemed Univ.), Chennai",
+    "collegeName": "Sri Lakshmi Narayana Institute of Medical Sciences, Pondicherry"
+  },
+  {
+    "index": 413,
+    "type": "MBBS",
+    "universityName": "Pondicherry University",
+    "collegeName": "Sri Manakula Vinayagar Medical College & Hospital, Pondicherry"
+  },
+  {
+    "index": 414,
+    "type": "MBBS",
+    "universityName": "Pondicherry University",
+    "collegeName": "Sri Venkateswaraa Medical College, Hospital & Research Centre, Pondicherry"
+  },
+  {
+    "index": 415,
+    "type": "MBBS",
+    "universityName": "Vinayaka Missions University (Deemed), Salem",
+    "collegeName": "Vinayaka Missions Medical College, Karaikal, Pondicherry"
+  },
+  {
+    "index": 416,
+    "type": "MBBS",
+    "universityName": "Adesh University, Bathinda",
+    "collegeName": "Adesh Institute of Medical Sciences & Research, Bhatinda"
+  },
+  {
+    "index": 417,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Bhatinda"
+  },
+  {
+    "index": 418,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Chintpurni Medical College, Pathankot, Gurdaspur"
+  },
+  {
+    "index": 419,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Christian Medical College, Ludhiana"
+  },
+  {
+    "index": 420,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Dayanand Medical College & Hospital, Ludhiana"
+  },
+  {
+    "index": 421,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Dr B R Ambedkar State Institute of Medical Sciences, SAS Nagar , Mohali"
+  },
+  {
+    "index": 422,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Gian Sagar Medical College & Hospital, Patiala"
+  },
+  {
+    "index": 423,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Government Medical College, Amritsar"
+  },
+  {
+    "index": 424,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Government Medical College, Patiala"
+  },
+  {
+    "index": 425,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Guru Govind Singh Medical College, Faridkot"
+  },
+  {
+    "index": 426,
+    "type": "MBBS",
+    "universityName": "Baba Farid University of Health Sciences,Faridkot",
+    "collegeName": "Punjab Institute of Medical Sciences, Jalandhar"
+  },
+  {
+    "index": 427,
+    "type": "MBBS",
+    "universityName": "Sri Guru Ram Das University of Health Sciences, Sri Amritsar",
+    "collegeName": "Sri Guru Ram Das Institute of Medical Sciences and Research, Sri Amritsar"
+  },
+  {
+    "index": 428,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Jodhpur"
+  },
+  {
+    "index": 429,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "American International Institute of Medical Sciences, Bedwas"
+  },
+  {
+    "index": 430,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Ananta Institute of Medical Sciences & Research Centre, Rajsamand"
+  },
+  {
+    "index": 431,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Dr SN Medical College, Jodhpur"
+  },
+  {
+    "index": 432,
+    "type": "MBBS",
+    "universityName": "Tantia University",
+    "collegeName": "Dr S S Tantia Medical College Hospital & Research Centre"
+  },
+  {
+    "index": 433,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Employees State Insurance Corporation Medical College,Alwar"
+  },
+  {
+    "index": 434,
+    "type": "MBBS",
+    "universityName": "Geetanjali University , Udaipur",
+    "collegeName": "Geetanjali Medical College & Hospital,Udaipur"
+  },
+  {
+    "index": 435,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Alwar"
+  },
+  {
+    "index": 436,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Barmer"
+  },
+  {
+    "index": 437,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Bharatpur, Rajasthan"
+  },
+  {
+    "index": 438,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Bhilwara, Rajasthan"
+  },
+  {
+    "index": 439,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Bundi"
+  },
+  {
+    "index": 440,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Chittorgarh"
+  },
+  {
+    "index": 441,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Churu"
+  },
+  {
+    "index": 442,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Dausa"
+  },
+  {
+    "index": 443,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Dholpur"
+  },
+  {
+    "index": 444,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Dungarpur"
+  },
+  {
+    "index": 445,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Hanumangarh"
+  },
+  {
+    "index": 446,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Karauli"
+  },
+  {
+    "index": 447,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Kota"
+  },
+  {
+    "index": 448,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Pali, Rajasthan"
+  },
+  {
+    "index": 449,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Sirohi"
+  },
+  {
+    "index": 450,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Government Medical College, Sri Ganganagar"
+  },
+  {
+    "index": 451,
+    "type": "MBBS",
+    "universityName": "Jaipur National University (Private Univ.)",
+    "collegeName": "Jaipur National University Institute of Medical Sciences and Resarch Centre, Jagatpura, Jaipur"
+  },
+  {
+    "index": 452,
+    "type": "MBBS",
+    "universityName": "Rajasthan University",
+    "collegeName": "Jawaharlal Nehru Medical College, Ajmer"
+  },
+  {
+    "index": 453,
+    "type": "MBBS",
+    "universityName": "Rajasthan University",
+    "collegeName": "Jhalawar Medical College, Jhalawar"
+  },
+  {
+    "index": 454,
+    "type": "MBBS",
+    "universityName": "Mahatma Gandhi University of Medical Science & Technology, Jaipur",
+    "collegeName": "Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur "
+  },
+  {
+    "index": 455,
+    "type": "MBBS",
+    "universityName": "NIMS University (Deemed), Jaipur",
+    "collegeName": "National Institute of Medical Science & Research, Jaipur"
+  },
+  {
+    "index": 456,
+    "type": "MBBS",
+    "universityName": "Sai Tirupati University, Udaipur",
+    "collegeName": "Pacific Institute of Medical Sciences, Umarda, Udaipur"
+  },
+  {
+    "index": 457,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur"
+  },
+  {
+    "index": 458,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "R N T Medical College,  Udaipur"
+  },
+  {
+    "index": 459,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "RUHS College of Medical Sciences, Jaipur"
+  },
+  {
+    "index": 460,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Sardar Patel Medical College, Bikaner"
+  },
+  {
+    "index": 461,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "Shri Kalyan Govt. Medical College, Sikar, Rajasthan"
+  },
+  {
+    "index": 462,
+    "type": "MBBS",
+    "universityName": "Rajasthan University of Health Sciences",
+    "collegeName": "SMS Medical College, Jaipur"
+  },
+  {
+    "index": 463,
+    "type": "MBBS",
+    "universityName": "Sikkim Manipal Univ. of Health,Medical & Tech. Scs",
+    "collegeName": "Sikkim Manipal Institute of Medical Sciences, Gangtok"
+  },
+  {
+    "index": 464,
+    "type": "MBBS",
+    "universityName": "Dr. MGR Educational and Research Institute (Deemed University), Chennai ",
+    "collegeName": "ACS Medical College and Hospital, Chennai"
+  },
+  {
+    "index": 465,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS (Madurai)\t",
+    "collegeName": "All India Institute of Medical Sciences, Madurai"
+  },
+  {
+    "index": 466,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Annapoorna Medical College & Hospital, Salem"
+  },
+  {
+    "index": 467,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Arunai Medical College And Hospital"
+  },
+  {
+    "index": 468,
+    "type": "MBBS",
+    "universityName": "Bharath Institute of Higher Education & Research (Deemed Univ.), Chennai",
+    "collegeName": "Bhaarat Medical College & Hospital  "
+  },
+  {
+    "index": 469,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Chengalpattu Medical College, Chengalpattu"
+  },
+  {
+    "index": 470,
+    "type": "MBBS",
+    "universityName": "Chettinad Academy of Research and Education (Deemed University), Chettinad",
+    "collegeName": "Chettinad Hospital & Research Institute, Kanchipuram"
+  },
+  {
+    "index": 471,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Christian Medical College, Vellore"
+  },
+  {
+    "index": 472,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Coimbatore Medical College, Coimbatore"
+  },
+  {
+    "index": 473,
+    "type": "MBBS",
+    "universityName": "Dhanalakshmi Srinivasan University, a state private University of Tamil Nadu",
+    "collegeName": "Dhanalakshmi Srinivasan Institute of Medical Sciences and Hospital,"
+  },
+  {
+    "index": 474,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Dhanalakshmi Srinivasan Medical College and Hospital,Perambalur"
+  },
+  {
+    "index": 475,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "E.S.I.C. Medical College & Hospital, K.K. Nagar, Chennai earlier known as ESIC Medical College & PGIMSR, K.K Nagar, Chennai"
+  },
+  {
+    "index": 476,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Faculty of Medicine , Sri Lalithambigai Medical College and Hospital"
+  },
+  {
+    "index": 477,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Dharmapuri Medical College, Dharmapuri"
+  },
+  {
+    "index": 478,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Erode Medical College & Hospital, Perundurai (Formerly IRT Perundurai Medical College)"
+  },
+  {
+    "index": 479,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College,Ariyalur"
+  },
+  {
+    "index": 480,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College,Dindigul"
+  },
+  {
+    "index": 481,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College & ESIC Hospital, Coimbatore, Tamil Nadu."
+  },
+  {
+    "index": 482,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College Kallakurichi"
+  },
+  {
+    "index": 483,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College, Karur"
+  },
+  {
+    "index": 484,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College Krishnagiri"
+  },
+  {
+    "index": 485,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College Nagapattinam"
+  },
+  {
+    "index": 486,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College, Namakkal"
+  },
+  {
+    "index": 487,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College, Omandurar"
+  },
+  {
+    "index": 488,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College, Pudukottai, Tamil Nadu"
+  },
+  {
+    "index": 489,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College Ramanathapuram"
+  },
+  {
+    "index": 490,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College, The Nilgiris"
+  },
+  {
+    "index": 491,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College, Thiruvallur"
+  },
+  {
+    "index": 492,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College ,Tiruppur"
+  },
+  {
+    "index": 493,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Medical College, Virudhunagar"
+  },
+  {
+    "index": 494,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Sivagangai Medical College, Sivaganga"
+  },
+  {
+    "index": 495,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Thiruvannamalai Medical College, Thiruvannamalai"
+  },
+  {
+    "index": 496,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Vellore Medical College, Vellore"
+  },
+  {
+    "index": 497,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Government Villupuram Medical College, Villupuram"
+  },
+  {
+    "index": 498,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Govt. Mohan Kumaramangalam Medical College, Salem- 30"
+  },
+  {
+    "index": 499,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Indira Medical College & Hospitals, Thiruvallur "
+  },
+  {
+    "index": 500,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "KanyaKumari Government Medical College, Asaripallam"
+  },
+  {
+    "index": 501,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "K A P Viswanathan Government Medical College, Trichy"
+  },
+  {
+    "index": 502,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Karpagam Faculty of Medical Sciences & Research, Coimbatore"
+  },
+  {
+    "index": 503,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Karpaga Vinayaga Institute of Medical Sciences,Maduranthagam"
+  },
+  {
+    "index": 504,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Kilpauk Medical College, Chennai"
+  },
+  {
+    "index": 505,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "KMCH Institute of Health Sciences and Research, Coimbatore"
+  },
+  {
+    "index": 506,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Madha Medical College and Hospital, Thandalam, Chennai"
+  },
+  {
+    "index": 507,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Madras Medical College, Chennai"
+  },
+  {
+    "index": 508,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Madurai Medical College, Madurai"
+  },
+  {
+    "index": 509,
+    "type": "MBBS",
+    "universityName": "Meenakshi University (Deemed), Chennai",
+    "collegeName": "Meenakshi Medical College and Research Institute, Enathur"
+  },
+  {
+    "index": 510,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Melmaruvathur Adiparasakthi Instt. Medical Sciences  and Research"
+  },
+  {
+    "index": 511,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Nandha Medical College & Hospital Erode"
+  },
+  {
+    "index": 512,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Panimalar Medical College Hospital & Research Institute, Chennai,Tamil Nadu"
+  },
+  {
+    "index": 513,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "PSG Institute of Medical Sciences, Coimbatore"
+  },
+  {
+    "index": 514,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "PSP Medical College Hospital and Research Institute"
+  },
+  {
+    "index": 515,
+    "type": "MBBS",
+    "universityName": "Annamalai University",
+    "collegeName": "Rajah Muthiah Medical College, Annamalainagar"
+  },
+  {
+    "index": 516,
+    "type": "MBBS",
+    "universityName": "Saveetha University (Deemed), Chennai",
+    "collegeName": "Saveetha Medical College and Hospital, Kanchipuram"
+  },
+  {
+    "index": 517,
+    "type": "MBBS",
+    "universityName": "Sri Balaji Vidyapeeth (Deemed University), Pondicherry ",
+    "collegeName": "Shri Sathya Sai Medical College and Research Institute, Kancheepuram"
+  },
+  {
+    "index": 518,
+    "type": "MBBS",
+    "universityName": "Bharath Institute of Higher Education & Research (Deemed Univ.), Chennai",
+    "collegeName": "Sree Balaji Medical College and Hospital, Chennai"
+  },
+  {
+    "index": 519,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Sree Mookambika Institute of Medical Sciences, Kanyakumari"
+  },
+  {
+    "index": 520,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Sri Muthukumaran Medical College,Chennai"
+  },
+  {
+    "index": 521,
+    "type": "MBBS",
+    "universityName": "Dhanalakshmi Srinivasan University, a state private University of Tamil Nadu",
+    "collegeName": "Srinivasan Medical College and Hospital"
+  },
+  {
+    "index": 522,
+    "type": "MBBS",
+    "universityName": "Sri Ramachandra Institute of Higher Education & Research(Deemed to be University), Chennai",
+    "collegeName": "Sri Ramachandra Medical College & Research Institute, Chennai"
+  },
+  {
+    "index": 523,
+    "type": "MBBS",
+    "universityName": "Sri Venkateswaraa University, Chennai",
+    "collegeName": "Sri Venkateswaraa Medical College Hospital and Research Institute, Chennai"
+  },
+  {
+    "index": 524,
+    "type": "MBBS",
+    "universityName": "SRM Institute  of Science & Technology (Formerly SRM University)",
+    "collegeName": "SRM Medical College Hospital & Research Centre, Chengalpattu"
+  },
+  {
+    "index": 525,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Stanley Medical College, Chennai"
+  },
+  {
+    "index": 526,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "ST Peters Medical College, Hospital & Research Institute"
+  },
+  {
+    "index": 527,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Swamy Vivekanandha Medical College Hospital And Research Institute"
+  },
+  {
+    "index": 528,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Tagore Medical College and Hospital, Chennai"
+  },
+  {
+    "index": 529,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Thanjavur Medical College,Thanjavur"
+  },
+  {
+    "index": 530,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Theni Government Medical College,Theni"
+  },
+  {
+    "index": 531,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Thiruvarur Govt. Medical College, Thiruvarur"
+  },
+  {
+    "index": 532,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Thoothukudi Medical College, Thoothukudi"
+  },
+  {
+    "index": 533,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Tirunelveli Medical College,Tirunelveli"
+  },
+  {
+    "index": 534,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Trichy SRM Medical College Hospital & Research Centre, Trichy"
+  },
+  {
+    "index": 535,
+    "type": "MBBS",
+    "universityName": "The Tamilnadu Dr. MGR Medical University,Chennai",
+    "collegeName": "Velammal Medical College Hospital and Research Institute, Madurai"
+  },
+  {
+    "index": 536,
+    "type": "MBBS",
+    "universityName": "Vels Institute Of Science, Technology & Advanced Studies( VISTAS) ( Deemed to be University)",
+    "collegeName": "VELS Medical College & Hospital"
+  },
+  {
+    "index": 537,
+    "type": "MBBS",
+    "universityName": "Vinayaka Missions University (Deemed), Salem",
+    "collegeName": "Vinayaka Missions Kirupananda Variyar Medical College, Salem"
+  },
+  {
+    "index": 538,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Bibinagar"
+  },
+  {
+    "index": 539,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Apollo Institute of Medical Sciences and Research, Hyderabad"
+  },
+  {
+    "index": 540,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Arundathi Institute of Medical Sciences"
+  },
+  {
+    "index": 541,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Ayaan Institute of Medical Sciences, Teaching Hospital & Research Centre, Kanaka Mamidi, R.R. Dist"
+  },
+  {
+    "index": 542,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Bhaskar Medical College, Yenkapally"
+  },
+  {
+    "index": 543,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Chalmeda Anand Rao Insttitute Of  Medical Sciences, Karimnagar"
+  },
+  {
+    "index": 544,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "CMR Institute of Medical Sciences "
+  },
+  {
+    "index": 545,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Deccan College of Medical Sciences, Hyderabad"
+  },
+  {
+    "index": 546,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Dr. Patnam Mahender Reddy Institute of Medical Sciences, Chevella, Rangareddy"
+  },
+  {
+    "index": 547,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Dr. VRK Womens Medical College, Aziznagar"
+  },
+  {
+    "index": 548,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Employees State Insurance Coporation Medical College, Sanath Nagar, Hyderabad"
+  },
+  {
+    "index": 549,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Father Colombo Institute of Medical Sciences"
+  },
+  {
+    "index": 550,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Gandhi Medical College, Secunderabad"
+  },
+  {
+    "index": 551,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Bhadradri Kothagudem"
+  },
+  {
+    "index": 552,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Jagtial"
+  },
+  {
+    "index": 553,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College Jangaon "
+  },
+  {
+    "index": 554,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Jayashankar Bhupalpally"
+  },
+  {
+    "index": 555,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Kamareddy"
+  },
+  {
+    "index": 556,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Karimnagar"
+  },
+  {
+    "index": 557,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Khammam"
+  },
+  {
+    "index": 558,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Kumuram Bheem Asifabad"
+  },
+  {
+    "index": 559,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Mahabubabad"
+  },
+  {
+    "index": 560,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Mahabubnagar"
+  },
+  {
+    "index": 561,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Mancherial"
+  },
+  {
+    "index": 562,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Nagarkurnool"
+  },
+  {
+    "index": 563,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Nalgonda"
+  },
+  {
+    "index": 564,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Nirmal"
+  },
+  {
+    "index": 565,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Government Medical College, Nizamabad"
+  },
+  {
+    "index": 566,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Rajanna Sircilla"
+  },
+  {
+    "index": 567,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Ramagundam"
+  },
+  {
+    "index": 568,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Sangareddy"
+  },
+  {
+    "index": 569,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Siddipet"
+  },
+  {
+    "index": 570,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Suryapet"
+  },
+  {
+    "index": 571,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Vikarabad"
+  },
+  {
+    "index": 572,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Government Medical College, Wanaparthy"
+  },
+  {
+    "index": 573,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Kakatiya Medical College, Warangal"
+  },
+  {
+    "index": 574,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Kamineni Academy of Medical Sciences & Research Center, Hyderabad"
+  },
+  {
+    "index": 575,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Kamineni Institute of Medical Sciences, Narketpally"
+  },
+  {
+    "index": 576,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Mahavir Institute of Medical Sciences, Vikarabad, Telengana"
+  },
+  {
+    "index": 577,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Maheshwara Medical College, Chitkul, Patancheru, Medak"
+  },
+  {
+    "index": 578,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Malla Reddy Institute of Medical Sciences, Hyderabad"
+  },
+  {
+    "index": 579,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Mallareddy Medical College for Women, Hyderabad"
+  },
+  {
+    "index": 580,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Mamata Academy of Medical Sciences, Bachupally"
+  },
+  {
+    "index": 581,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Mamata Medical College, Khammam"
+  },
+  {
+    "index": 582,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Mediciti Institute Of Medical Sciences, Ghanpur"
+  },
+  {
+    "index": 583,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "MNR Medical College & Hospital, Sangareddy"
+  },
+  {
+    "index": 584,
+    "type": "MBBS",
+    "universityName": "Anurag University",
+    "collegeName": "Neelima Institute of Medical Sciences, Medchal"
+  },
+  {
+    "index": 585,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Osmania Medical College, Hyderabad"
+  },
+  {
+    "index": 586,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Prathima Institute Of Medical Sciences, Karimnagar"
+  },
+  {
+    "index": 587,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "Prathima Relief Institue of Medical Sciences"
+  },
+  {
+    "index": 588,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Rajiv Gandhi Institute of Medical Sciences, adilabad"
+  },
+  {
+    "index": 589,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "R.V.M. Institute of Medical Sciences and Research Centre, Siddipet"
+  },
+  {
+    "index": 590,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Shadan Institute of Medical Sciences,Research Centre and Teaching Hospital, Peerancheru"
+  },
+  {
+    "index": 591,
+    "type": "MBBS",
+    "universityName": "Dr. YSR University of Health Sciences",
+    "collegeName": "Surabhi Institute of Medical Sciences, Siddipet, Telangana"
+  },
+  {
+    "index": 592,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "S V S Medical College, Mehboobnagar"
+  },
+  {
+    "index": 593,
+    "type": "MBBS",
+    "universityName": "Kaloji Narayana Rao University of Health Sciences, Warangal",
+    "collegeName": "TRR Institute of Medical Sciences, Patancheru "
+  },
+  {
+    "index": 594,
+    "type": "MBBS",
+    "universityName": "Tripura University",
+    "collegeName": "Agartala Government Medical College,Agartala"
+  },
+  {
+    "index": 595,
+    "type": "MBBS",
+    "universityName": "Tripura University",
+    "collegeName": "Tripura Medical College and Dr. B R A M Teaching Hospital, Agartala"
+  },
+  {
+    "index": 596,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Rishikesh"
+  },
+  {
+    "index": 597,
+    "type": "MBBS",
+    "universityName": "Hemwati Nandan Bahuguna Uttarakhand Medical Education University, Dehradun",
+    "collegeName": "Doon Medical College, Dehradun, Uttarakhand"
+  },
+  {
+    "index": 598,
+    "type": "MBBS",
+    "universityName": "Ras Bihari Bose Subharti University, Dehradun",
+    "collegeName": "Gautam Buddha Chikitsa Mahavidyalaya, Dehradum"
+  },
+  {
+    "index": 599,
+    "type": "MBBS",
+    "universityName": "Hemwati Nandan Bahuguna Uttarakhand Medical Education University, Dehradun",
+    "collegeName": "Government Medical College (Prev.Uttarakhand Forest Hospital Trust Med.Col.), Haldwani"
+  },
+  {
+    "index": 600,
+    "type": "MBBS",
+    "universityName": "Swami Rama Himalayan University, Dehradun",
+    "collegeName": "Himalayan Institute of Medical Sciences, Dehradun"
+  },
+  {
+    "index": 601,
+    "type": "MBBS",
+    "universityName": "Shri Guru Ram Rai University",
+    "collegeName": "Shri Guru Ram Rai Institute of Medical & Health Sciences, Dehradun"
+  },
+  {
+    "index": 602,
+    "type": "MBBS",
+    "universityName": "HNB Uttarakhand Medical Education University, Dehradun",
+    "collegeName": "Soban Singh Jeena Government Institute of Medical Science & Research, Almora"
+  },
+  {
+    "index": 603,
+    "type": "MBBS",
+    "universityName": "Hemwati Nandan Bahuguna Uttarakhand Medical Education University",
+    "collegeName": "Veer Chandra Singh Garhwali Govt. Medical Sc. & Research Instt, Srinagar, Pauri Garhwal"
+  },
+  {
+    "index": 604,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Gorakhpur"
+  },
+  {
+    "index": 605,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Rae Bareli"
+  },
+  {
+    "index": 606,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Autonomous State Medical College Pratapgarh"
+  },
+  {
+    "index": 607,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Autonomous State Medical College, Siddharthnagar"
+  },
+  {
+    "index": 608,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Autonomous State Medical College Society, Etah, Uttar Pradesh"
+  },
+  {
+    "index": 609,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Autonomous State Medical College Society, Fatehpur"
+  },
+  {
+    "index": 610,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Autonomous State Medical College Society Ghazipur"
+  },
+  {
+    "index": 611,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Autonomous State Medical College Society, Hardoi"
+  },
+  {
+    "index": 612,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Autonomous State Society Medical College Mirzapur"
+  },
+  {
+    "index": 613,
+    "type": "MBBS",
+    "universityName": "Deen Dayal Upadhyay Gorakhpur University, Gorakhpur",
+    "collegeName": "BRD Medical College, Gorakhpur"
+  },
+  {
+    "index": 614,
+    "type": "MBBS",
+    "universityName": "Dr. Ram Manohar Lohia Avadh University, Faizabad",
+    "collegeName": "Career Instt. Of Medical Sciences & Hospital, Lucknow"
+  },
+  {
+    "index": 615,
+    "type": "MBBS",
+    "universityName": "Dr. Ram Manohar Lohia Institute of Medical Sciences, Lucknow (deemed)",
+    "collegeName": "Dr. Ram Manohar Lohia Institute of Medical Sciences,Lucknow"
+  },
+  {
+    "index": 616,
+    "type": "MBBS",
+    "universityName": "Dr. Ram Manohar Lohia Avadh University, Faizabad",
+    "collegeName": "Era Lucknow Medical College , Lucknow"
+  },
+  {
+    "index": 617,
+    "type": "MBBS",
+    "universityName": "Dr B R Ambedkar University,Agra, U.P.",
+    "collegeName": "F.H. Medical College & Hospital, Etamdapur, Agra"
+  },
+  {
+    "index": 618,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Government Allopathic Medical College, Banda, UP"
+  },
+  {
+    "index": 619,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Government Institute of Medical Sciences, Kasna, Greater Noida"
+  },
+  {
+    "index": 620,
+    "type": "MBBS",
+    "universityName": "Mahatma Jyotiba Phule Rohilkhand University",
+    "collegeName": "Government Medical College, Badaun, U.P."
+  },
+  {
+    "index": 621,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Government Medical College, Faizabad"
+  },
+  {
+    "index": 622,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Government Medical College, Firozabad"
+  },
+  {
+    "index": 623,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Government Medical College, Kannauj"
+  },
+  {
+    "index": 624,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Government Medical College, Rampur, Basti"
+  },
+  {
+    "index": 625,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Government Medical College, Shahjahanpur, UP"
+  },
+  {
+    "index": 626,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Government Medical College & Super facility Hospital, Azamgarh"
+  },
+  {
+    "index": 627,
+    "type": "MBBS",
+    "universityName": "Ch. Charan Singh Universitiy, Meerut",
+    "collegeName": "G.S. Medical College & Hospital, Hapur, UP"
+  },
+  {
+    "index": 628,
+    "type": "MBBS",
+    "universityName": "C.S.J.M. University, Kanpur",
+    "collegeName": "GSVM Medical College, Kanpur"
+  },
+  {
+    "index": 629,
+    "type": "MBBS",
+    "universityName": "Mahatma Gandhi Kashi Vidyapith, Varanasi",
+    "collegeName": "Heritage Institute of Medical Sciences, Varanasi"
+  },
+  {
+    "index": 630,
+    "type": "MBBS",
+    "universityName": "Dr. Ram Manohar Lohia Avadh University, Faizabad",
+    "collegeName": "Hind Institute of Medical Sciences , Barabanki"
+  },
+  {
+    "index": 631,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Hind Institute of Medical Sciences, Sitapur"
+  },
+  {
+    "index": 632,
+    "type": "MBBS",
+    "universityName": "Banaras Hindu University",
+    "collegeName": "Institute of Medical Sciences, BHU, Varansi"
+  },
+  {
+    "index": 633,
+    "type": "MBBS",
+    "universityName": "Integral University, Lucknow",
+    "collegeName": "Integral Institute of Medical Sciences & Research, Lucknow"
+  },
+  {
+    "index": 634,
+    "type": "MBBS",
+    "universityName": "Aligarh Muslim University",
+    "collegeName": "Jawaharlal Nehru Medical College, Aligarh"
+  },
+  {
+    "index": 635,
+    "type": "MBBS",
+    "universityName": "Dr B R Ambedkar University,Agra, U.P.",
+    "collegeName": "K.D. Medical College Hospital & Research Centre, Mathura"
+  },
+  {
+    "index": 636,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "King George Medical University, Lucknow"
+  },
+  {
+    "index": 637,
+    "type": "MBBS",
+    "universityName": "Dr B R Ambedkar University,Agra, U.P.",
+    "collegeName": "Krishna Mohan Medical College & Hospital, Mathura"
+  },
+  {
+    "index": 638,
+    "type": "MBBS",
+    "universityName": "Ch. Charan Singh Universitiy, Meerut",
+    "collegeName": "LLRM Medical College, Meerut"
+  },
+  {
+    "index": 639,
+    "type": "MBBS",
+    "universityName": "Dr. Ram Manohar Lohia Avadh University, Faizabad",
+    "collegeName": "Mahamaya Rajkiya Allopathic Medical College, Ambedkarnagar"
+  },
+  {
+    "index": 640,
+    "type": "MBBS",
+    "universityName": "Bundelkhand University",
+    "collegeName": "Maharani Laxmi Bai Medical College, Jhansi"
+  },
+  {
+    "index": 641,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Maharshi Devraha Baba Autonomous State Medical College, Deoria"
+  },
+  {
+    "index": 642,
+    "type": "MBBS",
+    "universityName": "C.S.J.M. University, Kanpur",
+    "collegeName": "Major S D Singh Medical College and Hospital, Fathehgarh, Farrukhabad"
+  },
+  {
+    "index": 643,
+    "type": "MBBS",
+    "universityName": "Dr. Ram Manohar Lohia Avadh University, Faizabad",
+    "collegeName": "Mayo Institute of Medical Sciences, Barabanki"
+  },
+  {
+    "index": 644,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Moti Lal Nehru Medical College, Allahabad"
+  },
+  {
+    "index": 645,
+    "type": "MBBS",
+    "universityName": "Ch. Charan Singh Universitiy, Meerut",
+    "collegeName": "Muzaffarnagar Medical College, Muzaffarnagar"
+  },
+  {
+    "index": 646,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Naraina Medical College & Research Centre"
+  },
+  {
+    "index": 647,
+    "type": "MBBS",
+    "universityName": "Ch. Charan Singh Universitiy, Meerut",
+    "collegeName": "National Capital Region Institute of Medical Sciences, Meerut"
+  },
+  {
+    "index": 648,
+    "type": "MBBS",
+    "universityName": "Noida International University",
+    "collegeName": "Noida International Institute Of Medical Sciences"
+  },
+  {
+    "index": 649,
+    "type": "MBBS",
+    "universityName": "Dr. Ram Manohar Lohia Avadh University, Faizabad",
+    "collegeName": "Prasad Institute of Medical Sciences, Lucknow"
+  },
+  {
+    "index": 650,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Rajkiya Allopathic Medical College, Bahraich, UP"
+  },
+  {
+    "index": 651,
+    "type": "MBBS",
+    "universityName": "King Georges Medical University,Lucknow",
+    "collegeName": "Rajkiya Medical College Jalaun, Orai, Uttar Pradesh"
+  },
+  {
+    "index": 652,
+    "type": "MBBS",
+    "universityName": "M J P Rohilkhand University",
+    "collegeName": "Rajshree Medical Research Institute, Bareilly"
+  },
+  {
+    "index": 653,
+    "type": "MBBS",
+    "universityName": "Dr B R Ambedkar University,Agra, U.P.",
+    "collegeName": "Rama Medical College and Hospital , Kanpur"
+  },
+  {
+    "index": 654,
+    "type": "MBBS",
+    "universityName": "Ch. Charan Singh Universitiy, Meerut",
+    "collegeName": "Rama Medical College Hospital and Research Centre, Hapur"
+  },
+  {
+    "index": 655,
+    "type": "MBBS",
+    "universityName": "Bareilly International University, Bareilly",
+    "collegeName": "Rohilkhand Medical College & Hospital, Bareilly"
+  },
+  {
+    "index": 656,
+    "type": "MBBS",
+    "universityName": "Santosh University",
+    "collegeName": "Santosh Medical College, Ghaziabad"
+  },
+  {
+    "index": 657,
+    "type": "MBBS",
+    "universityName": "Ch. Charan Singh Universitiy, Meerut",
+    "collegeName": "Saraswati Institute of Medical Sciences, Hapur"
+  },
+  {
+    "index": 658,
+    "type": "MBBS",
+    "universityName": "CSJM University Kanpur",
+    "collegeName": "Saraswati Medical College, Unnao, U.P."
+  },
+  {
+    "index": 659,
+    "type": "MBBS",
+    "universityName": "Sharda University, Greater Noida",
+    "collegeName": "School of Medical Sciences & Research,Greater Noida"
+  },
+  {
+    "index": 660,
+    "type": "MBBS",
+    "universityName": "Ch. Charan Singh Universitiy, Meerut",
+    "collegeName": "Shaikh-UL-Hind Maulana Mahmood Hasan Medical College, Saharanpur"
+  },
+  {
+    "index": 661,
+    "type": "MBBS",
+    "universityName": "M J P Rohilkhand University",
+    "collegeName": "Shri Ram Murti Smarak Institute of Medical Sciences, Bareilly"
+  },
+  {
+    "index": 662,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "SKS Hospital Medical College & Research Centre"
+  },
+  {
+    "index": 663,
+    "type": "MBBS",
+    "universityName": "Dr B R Ambedkar University,Agra, U.P.",
+    "collegeName": "S N Medical College, Agra"
+  },
+  {
+    "index": 664,
+    "type": "MBBS",
+    "universityName": "Swami Vivekanand Subharti University, Meerut",
+    "collegeName": "Subharti Medical College, Meerut"
+  },
+  {
+    "index": 665,
+    "type": "MBBS",
+    "universityName": "Teerthanker Mahaveer University, Moradabad",
+    "collegeName": "Teerthanker Mahaveer Medical College, Moradabad"
+  },
+  {
+    "index": 666,
+    "type": "MBBS",
+    "universityName": "Dr. Shakuntala Misra National Rehabilitation University, Lucknow ",
+    "collegeName": "T S Misra Medical College & Hospital, Amusi, Lucknow"
+  },
+  {
+    "index": 667,
+    "type": "MBBS",
+    "universityName": "Atal Bihari Vajpayee Medical University, Lucknow, Uttar Pradesh",
+    "collegeName": "Uma Nath Singh Autonomous State Medical College Society Jaunpur"
+  },
+  {
+    "index": 668,
+    "type": "MBBS",
+    "universityName": "Prof. Rajendra Singh (Rajju Bhaiya) University, Prayagraj",
+    "collegeName": "United Institute of Medical Sciences, Allahabad"
+  },
+  {
+    "index": 669,
+    "type": "MBBS",
+    "universityName": "Uttar Pradesh University of Medical Sciences, Etawah",
+    "collegeName": "Uttar Pradesh University of Medical Sciences, (Prev. UP Rural Inst.of Med.Sc&R) Etawah"
+  },
+  {
+    "index": 670,
+    "type": "MBBS",
+    "universityName": "Mahatma Jyotiba Phule Rohilkhand University",
+    "collegeName": "Varun Arjun Medical College, Banthra, Shahjahanpur"
+  },
+  {
+    "index": 671,
+    "type": "MBBS",
+    "universityName": "Shri Venkateshwara University, Gajraula",
+    "collegeName": "Venkateshwara Institute of Medical Sciences, Gajraula"
+  },
+  {
+    "index": 672,
+    "type": "MBBS",
+    "universityName": "Statutory Autonomous, AIIMS(New Delhi)",
+    "collegeName": "All India Institute of Medical Sciences, Kalyani, Nadia"
+  },
+  {
+    "index": 673,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Bankura Sammilani Medical College, Bankura"
+  },
+  {
+    "index": 674,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Barasat Government Medical College & Hospital"
+  },
+  {
+    "index": 675,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Burdwan Medical College, Burdwan"
+  },
+  {
+    "index": 676,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Calcutta National Medical College, Kolkata"
+  },
+  {
+    "index": 677,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "College of Medicine and JNM Hospital,Kalyani,Nadia"
+  },
+  {
+    "index": 678,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "College of Medicine and Sagore Dutta Hospital, Kolkata"
+  },
+  {
+    "index": 679,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Coochbehar Government Medical College & Hospital, Coochbehar, WB"
+  },
+  {
+    "index": 680,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Diamond Harbour Government Medical College and Hospital, West Bengal"
+  },
+  {
+    "index": 681,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Employees State Insurance Corporation Medical College, Joka, Kolkata"
+  },
+  {
+    "index": 682,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Gouri Devi Institute of Medical Sciences and Hospital, Durgapur"
+  },
+  {
+    "index": 683,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Govt. Medical College, Kolkata"
+  },
+  {
+    "index": 684,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "ICARE Institute of Medical Sciences & Research, Haldia, Purba Midanpore"
+  },
+  {
+    "index": 685,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Institute of Postgraduate Medical Education & Research, Kolkata"
+  },
+  {
+    "index": 686,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "IQ-City Medical College, Burdwan"
+  },
+  {
+    "index": 687,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Jagannath Gupta Institute of Medical Sciences & Hospital, Kolkata"
+  },
+  {
+    "index": 688,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Jalpaiguri Government Medical College"
+  },
+  {
+    "index": 689,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Jhargram Government Medical College & Hospital"
+  },
+  {
+    "index": 690,
+    "type": "MBBS",
+    "universityName": "JIS University, Kolkata",
+    "collegeName": "JIS School of Medical Science & Research, Howrah"
+  },
+  {
+    "index": 691,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "JMN Medical College, Nadia"
+  },
+  {
+    "index": 692,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "KPC Medical College,Jadavpur,Kolkata"
+  },
+  {
+    "index": 693,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Malda Medical College & Hospital, Malda"
+  },
+  {
+    "index": 694,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Midnapore Medical College, Midnapore"
+  },
+  {
+    "index": 695,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Murshidabad Medical College & Hospitals, Murshidabad"
+  },
+  {
+    "index": 696,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Nilratan Sircar Medical College, Kolkata"
+  },
+  {
+    "index": 697,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "North Bengal Medical College, Darjeeling"
+  },
+  {
+    "index": 698,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Prafulla Chandra Sen Government Medical College & Hospital"
+  },
+  {
+    "index": 699,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Purulia Government Medical College & Hospital"
+  },
+  {
+    "index": 700,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Raiganj Government Medical College & Hospital, Raiganj"
+  },
+  {
+    "index": 701,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Rampurhat Government Medical College & Hospital, Rampurhat"
+  },
+  {
+    "index": 702,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "RG Kar Medical College, Kolkata"
+  },
+  {
+    "index": 703,
+    "type": "MBBS",
+    "universityName": "The West Bengal University of Health Sciences",
+    "collegeName": "Santiniketan Medical College, Bolpur, West Bengal"
+  },
+  {
+    "index": 704,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Sarat Chandra Chattopadhyay Government Medical College & Hospital"
+  },
+  {
+    "index": 705,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Shri Ramkrishna Institute of Medical Sciences & Sanaka Hospitals, Durgapur"
+  },
+  {
+    "index": 706,
+    "type": "MBBS",
+    "universityName": "West Bengal University of Health Sciences,Kolkata",
+    "collegeName": "Tamralipto Government Medical College & Hospital"
+  }
+]
