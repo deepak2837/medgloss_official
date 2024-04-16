@@ -81,6 +81,7 @@ export default function SearchBar() {
 
   const handleInputChange = (event) => {
     const userInput = event.target.value.toLowerCase();
+    console.log(userInput)
     setQuery(userInput);
     const results = searchPapers(userInput);
     setSearchResults(results);
@@ -104,7 +105,7 @@ export default function SearchBar() {
     console.log(result)
     // const { universityCode, courseName, paper } = result;
     // console.log(universityCode, courseName, paper )
-    // router.push(`/${universityCode}/${courseName}/${result.year}/${result.semester}`);
+    router.push(`/${result.universityCode}/${result.courseName}/${result.paper.year}/${result.paper.semester}`);
   };
   
 
@@ -120,7 +121,7 @@ export default function SearchBar() {
       {searchResults.length > 0 && (
         <ul>
           {searchResults.map((result, index) => (
-            <li key={index} onClick={() => handlePaperClick(result.paper)}>
+            <li key={index} onClick={() => handlePaperClick(result)}>
               {result.courseName} {result.paper.year} {result.paper.semester} paper
             </li>
           ))}

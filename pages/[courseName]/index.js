@@ -1,6 +1,6 @@
 import React from 'react';
-import Layout from '../components/Layout';
-import UniversityPaper from '../components/UniversityPaper.js';
+import Layout from '../../components/Layout.js';
+import UniversityPaper from '../../components/UniversityPaper.js';
 
 const UniversityPaperpage = () => {
     return (
