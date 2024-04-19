@@ -44,7 +44,7 @@ export default function SearchBar() {
         .replace(/,/g, '') // Remove commas
         .replace(/\s+/g, '-') // Replace spaces with dashes
         .toLowerCase(); // Convert to lowercase
-      router.push(`/${encodeURIComponent(collegeNameWithDashes)}`);
+      router.push(`/university/${encodeURIComponent(collegeNameWithDashes)}`);
     }
   };
 

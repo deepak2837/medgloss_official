@@ -105,7 +105,7 @@ export default function SearchBar() {
     console.log(result)
     // const { universityCode, courseName, paper } = result;
     // console.log(universityCode, courseName, paper )
-    router.push(`/${result.universityCode}/${result.courseName}/${result.paper.year}/${result.paper.semester}`);
+    router.push(`${result.universityCode}/${result.courseName}/${result.paper.year}/${result.paper.semester}`);
   };
   
 

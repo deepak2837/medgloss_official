@@ -47,7 +47,7 @@ export default function SemesterPaperPage() {
   const [selectedExam, setSelectedExam] = useState(null);
 
   const handleExamClick = (link) => {
-    router.push(link); // Navigate to the specified link
+    router.push(`examinations/${link}`); // Navigate to the specified link
   };
 
   return (
