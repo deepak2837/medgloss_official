@@ -1,8 +1,9 @@
 import { useRouter } from 'next/router';
-
+import dbConnect from '../../../../../api/question-papers';
 export default function SemesterPaperPage() {
   const router = useRouter();
-
+const response = dbConnect()
+response.then(()=>(console.log("yes connected ")))
   // Mock data (replace with your actual data)
   const universityData = [
     {
