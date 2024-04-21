@@ -1,12 +1,13 @@
+// db.js
 import mongoose from 'mongoose';
 
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/your_database';
+const MONGODB_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017/test';
 
-async function dbConnect() {
+async function connectToDatabase() {
   try {
     await mongoose.connect(MONGODB_URI, {
       useNewUrlParser: true,
-      useUnifiedTopology: true,
+     
     });
     console.log('MongoDB connected successfully');
   } catch (error) {
@@ -14,4 +15,4 @@ async function dbConnect() {
   }
 }
 
-export default dbConnect;
+export default connectToDatabase;
