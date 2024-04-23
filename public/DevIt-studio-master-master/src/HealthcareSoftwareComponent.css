@@ -1,0 +1,52 @@
+/* HealthcareSoftwareComponent.css */
+.healthcare-software-component-container {
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Rest of your styles */
+
+/* Scoped styles for h1, h2, h3, and p */
+.healthcare-software-component-container h1 {
+
+  margin: 0;
+}
+
+.healthcare-software-component-container .section-title {
+  padding: 10px;
+  border: 3px solid black;
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  font-size: xx-large;
+  text-align: center;
+  border-radius: 15px;
+  padding: 28px; /* Rounded corners */
+  margin-bottom: 30px; /* Add some space below the title */
+}
+
+.healthcare-software-component-container .section-description {
+  color: #333;
+}
+
+.healthcare-software-component-container h2 {
+  text-decoration: underline;
+  color: #333;
+  border-bottom: 2px solid #000;
+  padding-bottom: 10px;
+}
+
+.healthcare-software-component-container h3 {
+  text-decoration: underline;
+  color: #4c99e0;
+  border-bottom: 1px solid #000;
+  padding-bottom: 5px;
+}
+
+.healthcare-software-component-container p {
+  color: #666;
+  background-color: #4c99e0;
+  border-radius: 15px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 30px;
+}

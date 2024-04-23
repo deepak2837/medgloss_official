@@ -1,0 +1,48 @@
+/* techinfo.css */
+
+.StyledPaper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100px;
+    background: #fbfcfb;
+    color: black;
+    overflow: hidden;
+    padding: 16px;
+    border: 1px solid black;
+    border-radius: 12px;
+    font-family: 'Poppins, sans-serif';
+    text-decoration: underline;
+    margin-top: 16px; /* Adjust as needed */
+    transition: background-color 0.3s ease, transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .StyledPaper:hover {
+    background-color: #e8e9e7; /* Change the background color on hover */
+    transform: scale(1.05); /* Scale up on hover */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Box shadow on hover */
+  }
+  
+  .StyledPaper div {
+    border-radius: 15px;
+    border: 1px solid rgb(27, 27, 27);
+    background: #4c99e0;
+    height: 250px;
+    
+    padding: 8px;
+  }
+  
+  @media screen and (min-height: 768px) {
+    .StyledPaper div {
+        height: 300px;
+    }
+}
+ .StyledList {
+    padding: 0 10px;
+    list-style-type: none;
+  }
+  
+  .StyledList li {
+    margin-bottom: 8px;
+  }
+  

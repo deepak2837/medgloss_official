@@ -1,0 +1,20 @@
+/* Add your own styling */
+.privacy-policy-container {
+    border: 3 px solid black;
+    border-radius: 15px;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h2, h3 {
+    color: #c22e2e;
+  }
+  
+  p {
+    color: #34495e;
+    line-height: 1.6;
+  }
+  
+  /* Customize styles based on your design preferences */
+  

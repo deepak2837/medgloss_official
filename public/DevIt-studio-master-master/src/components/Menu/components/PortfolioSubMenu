@@ -1,0 +1,30 @@
+// PortfolioSubMenu.js
+
+import React from 'react';
+import { Link } from 'react-router-dom';
+import NavDropdown from 'react-bootstrap/NavDropdown';
+
+const PortfolioSubMenu = () => {
+  const portfolioOptions = [
+    { text: 'Overview', link: '/portfolio/overview' },
+    { text: 'About Us', link: '/portfolio/about-us' },
+    { text: 'Leadership Team', link: '/portfolio/leadership-team' },
+    { text: 'Clients', link: '/portfolio/clients' },
+    { text: 'Partners', link: '/portfolio/partners' },
+    { text: 'Corporate Responsibility', link: '/portfolio/corporate-responsibility' },
+    { text: 'Our Location', link: '/portfolio/our-location' },
+    { text: 'Privacy Policy', link: '/portfolio/privacy-policy' },
+  ];
+
+  return (
+    <NavDropdown title="Portfolio" id="portfolio-dropdown">
+      {portfolioOptions.map((option, index) => (
+        <NavDropdown.Item key={index} as={Link} to={option.link}>
+          {option.text}
+        </NavDropdown.Item>
+      ))}
+    </NavDropdown>
+  );
+};
+portfolio-dropdown
+export default PortfolioSubMenu;

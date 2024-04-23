@@ -1,0 +1,94 @@
+.case-study {
+    padding: 40px 0;
+  }
+  
+  .case-study-title {
+    font-size: 2.5rem;
+    text-decoration: underline;
+    font-weight: bold;
+    margin-bottom: 20px;
+    border: 2px solid #4c99e0;
+    border-radius: 15px;
+    text-align: center;
+  }
+  
+  .case-study-description {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+.case-study-card {
+    border: 2px solid #4c99e0;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .case-study-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .case-study-card .card-title {text-decoration: underline;
+    position: relative;
+    font-weight: bold;
+  }
+  
+  .case-study-card .card-title::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    background-color: #4c99e0; /* or any other color you prefer */
+    bottom: 0;
+    left: 0;
+    transform-origin: bottom right;
+    transform: scaleX(0);
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .case-study-card:hover .card-title::after {
+    transform-origin: bottom left;
+    transform: scaleX(1);
+  }
+  
+  .read-more-link {
+    color: #4c99e0;
+    text-decoration: none;
+    font-weight: bold;
+    display: block;
+    margin-top: 15px;
+  }
+  /* ... (previous styles) */
+
+.trusted-section {
+    background-color: #f8f9fa;
+    padding: 30px;
+    border-radius: 12px;
+  }
+  
+.section-heading {
+    position: relative;
+  }
+  
+  .section-heading::before {
+    content: '\2022'; /* Unicode character for a bullet point */
+    color:  #4c99e0; /* or any other color you prefer */
+    font-size: 1.2em;
+    position: absolute;
+    left: -1.5em; /* Adjust the spacing as needed */
+    top: 0.1em;
+  }
+  
+  .section-content li {
+    list-style-type:disc !important ; 
+/* Change the list style type to 'disc' for a filled circle */
+    margin-left: 1.5em; /* Adjust the spacing as needed */
+  }
+  .trusted-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .trusted-list li {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+  }
+  

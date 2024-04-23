@@ -1,0 +1,44 @@
+.clients{
+   display: flex;
+   justify-content: center;
+   flex-wrap: nowrap;
+   overflow-x: scroll;
+  }
+.clients img{
+    filter: grayscale(100%);
+    cursor: pointer;
+    padding: .5rem;
+    margin: 1rem 1rem 0rem;
+}
+
+.clients img:hover{
+    filter: grayscale(0);
+}
+::-webkit-scrollbar {
+    width: 0;  
+    background: transparent;  
+}
+.wavy-text {
+    animation-name: wavy;
+    animation-duration: 1.3s;
+    animation-timing-function: ease;
+    animation-iteration-count: infinite;
+    position: relative;
+    top: 0;
+    left: 0;
+  }
+  
+  @keyframes wavy {
+    0% {
+      top: 0px;
+    }
+    50% {
+      top: -15px;
+    }
+    100% {
+      top: 0px;
+    }
+  }
+  
+
+  

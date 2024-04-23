@@ -1,0 +1,6 @@
+.body{
+    width: fit-content;
+    height: fit-content;
+    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+    /* border:2px solid red; */
+    }
