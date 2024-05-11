@@ -1,0 +1,32 @@
+.asideContainer {
+    display: flex;
+    justify-content: space-between;
+    position:fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+    padding: 0 10px; /* Adjust the horizontal padding as needed */
+    box-sizing: border-box; /* Include padding in the element's total width */
+  }
+  
+  .leftAd {
+    width: 200px; /* Adjust the width of the left sidebar */
+    height: 100vh; /* Set the height to 100% of the viewport height */
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    overflow: auto; 
+   /* Add scrollbars if the content exceeds the sidebar height */
+  }
+  
+  .rightAd {
+    width: 200px; /* Adjust the width of the right sidebar */
+    height: 100vh;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    overflow: auto;
+    
+  }

@@ -1,6 +1,13 @@
-.body{
-    width: fit-content;
-    height: fit-content;
-    background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
-    /* border:2px solid red; */
-    }
+.mainContainer {
+    display: flex;
+    justify-content: center;
+    padding-top: 70px; /* Add top padding to avoid overlap with the fixed header */
+    padding-left: 220px; /* Add left padding for the left sidebar */
+    padding-right: 220px; /* Add right padding for the right sidebar */
+  }
+  
+  .mainContent {
+    width: 100%;
+    max-width: 800px; /* Set a maximum width for the main content */
+    padding: 20px;
+  }

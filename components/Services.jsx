@@ -10,8 +10,8 @@ const Services = () => {
 
   return (
     
-      <div id="services"   className="d-block pt-md-4 container ">
-        <Headings title="Services" text="At our digital marketing agency, we offer a range of services to help businesses grow and succeed online. These services include" />
+      <div id="services"   className="d-block pt-md-4 px-5 container ">
+        
   
         <div className="row pr-5 border" >
           {ServicesData.map(({ titleone, titletwo, link, itemclass, imgURL }, index) => (

@@ -1,0 +1,22 @@
+/* Aside.module.css */
+
+.asideContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+  }
+  
+  .leftAd {
+    flex: 1; /* Take up all available space */
+    background-color: #f0f0f0; /* Example background color */
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .rightAd {
+    flex: 1; /* Take up all available space */
+    background-color: #f0f0f0; /* Example background color */
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+  

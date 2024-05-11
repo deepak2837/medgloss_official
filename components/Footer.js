@@ -53,6 +53,7 @@ const Footer = () => {
             </Box>
           </Grid>
         </Grid>
+        
         <Box mt={0} mb= {-3} textAlign="center">
           <Typography variant="body2">Made in love with India</Typography>
           <Typography variant="body2">Copyright &copy; 2024 All rights reserved</Typography>

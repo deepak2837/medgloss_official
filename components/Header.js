@@ -106,7 +106,7 @@ function Header() {
 
           <Box sx={{ flexGrow: 0 }}>
             <Tooltip title="Open settings">
-              <IconButton onClick={handleOpenUserMenu} sx={{ p: 0 }}>
+              <IconButton onClick={handleOpenUserMenu} sx={{ p:0 }}>
                 <Avatar alt="Remy Sharp" src="/static/images/avatar/2.jpg" />
               </IconButton>
             </Tooltip>
@@ -133,7 +133,8 @@ function Header() {
                 </MenuItem>
               ))}
             </Menu>
-          </Box>     <Box sx={{ flexGrow: 0, display: { xs: 'flex', md: 'none' } }}>
+          </Box>   
+            <Box sx={{ border:"2px solid blue",flexGrow: "inherit" , justifyContent:"flex-end",display: {  md: 'none' } }}>
             <IconButton
               size="large"
               aria-label="account of current user"
@@ -141,8 +142,9 @@ function Header() {
               aria-haspopup="true"
               onClick={handleOpenNavMenu}
               color="inherit"
+              style={{border:"2px solid blue"}}
             >
-              <MenuIcon />
+              <MenuIcon  style={{border:"2px solid blue"}}/>
             </IconButton>
             <Menu
               id="menu-appbar"
