@@ -12,6 +12,7 @@ export default async function handler(req, res) {
   // Create a new user document
   const user = new User({ name: 'John Doe' });
   await user.save();
+  
   res.status(200).json({ message: 'User created successfully' });
   
 }

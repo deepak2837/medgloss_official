@@ -9,11 +9,11 @@ import styles from './Services.module.css'
 const Services = () => {
 
   return (
-    
-      <div id="services"   className="d-block pt-md-4 px-5 container ">
+    <div style={{border:"1px solid red",float:"center"}}>
+      <div id="services"   className="d-block pt-md-4 px-5 ">
         
   
-        <div className="row pr-5 border" >
+        <div className="row pr-6 container" >
           {ServicesData.map(({ titleone, titletwo, link, itemclass, imgURL }, index) => (
             <div className="col-lg-6 col-12" key={index}> {/* Adjusted column classes */}
               <div className={`${styles[itemclass]}`}>
@@ -30,6 +30,6 @@ const Services = () => {
           ))}
         </div>
       </div>
-   
+   </div>
   );}
 export default Services

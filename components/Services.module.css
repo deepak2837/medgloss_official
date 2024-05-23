@@ -8,11 +8,13 @@
     border-radius: 45px;
     align-items: center;
     padding: 2rem;
-
+    
 
 }
 
 .container{
+    
+    
     /* border:10px solid rgb(9, 223, 9);
     display: flex;
     flex-wrap: wrap;
@@ -121,12 +123,13 @@ color: var(--color-dark);
 
 }
 
+
 @media(max-width: 510px) {
     .img-services {
         width: auto;
         max-width: 60%;
         margin-top: -125px;
-        margin-left:100px;
+        /* margin-left:100px; */
         z-index: 9999;
     }
 
@@ -140,8 +143,10 @@ color: var(--color-dark);
     .bdark,
     .bgreen,
     .blight {
-        min-height: 200px;
+        min-height:150px;
+        width:300px;
         padding: 1rem;
+    
     }
 
     .bdark span,

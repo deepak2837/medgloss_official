@@ -13,14 +13,14 @@ const Home = () => {
                
                 {/* Filters */}
                 <Services />
-{/*                
-                <div className="page-links">
+               
+               <div className="page-links">
                     <a href="/search-by-university" className="page-link">Search by University</a>
                     <a href="/search-by-examination-type" className="page-link">Search by Examination Type</a>
                     <a href="/search-by-course-subject" className="page-link">Search by Course/Subject</a>
                     <a href="/search-by-year" className="page-link">Search by Year</a>
                     <a href="/combination-of-filters" className="page-link">Combination of Filters</a>
-                </div> */}
+                </div>
             </div>
         </Layout>
     );

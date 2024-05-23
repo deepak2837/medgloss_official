@@ -5,13 +5,14 @@ import styles from './Aside.module.css';
 
 const Aside = () => {
   return (
-    <div className={styles.asideContainer}>
-      {/* Left Ad Section */}
-      <div className={styles.leftAd}>Left Ad Section</div>
+    <div></div>
+    // <div className={styles.asideContainer}>
+    //   {/* Left Ad Section */}
+    //   <div className={styles.leftAd}>Left Ad Section</div>
 
-      {/* Right Ad Section */}
-      <div className={styles.rightAd}>Right Ad Section</div>
-    </div>
+    //   {/* Right Ad Section */}
+    //   <div className={styles.rightAd}>Right Ad Section</div>
+    // </div>
   );
 };
 

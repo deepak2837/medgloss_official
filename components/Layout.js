@@ -6,12 +6,13 @@ import styles from './Layout.module.css';
 
 const Layout = ({ children }) => {
   return (
-    <div className={styles.body}>
+    <div >
       <Header />
-      <div className={styles.mainContainer}>
+      {/* <div className={styles.mainContainer}>
   <Aside />
   <main className={styles.mainContent}>{children}</main>
-</div>
+</div> */}
+<main >{children}</main>
       <Footer />
     </div>
   );

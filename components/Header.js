@@ -16,7 +16,7 @@ import MedglossLogo from './Medgloss';
 import './header.css'
 import Link from 'next/link';
 
-const pages = ['Question Bank', 'Virtual Surgery', 'Case Studies','3D Models','Blogs','Videos','Mock Tests'];
+const pages = ['Question Bank', 'Case Studies','Previous year papers','Mock Tests', 'Virtual Surgery'];
 const settings = ['Profile', 'Account', 'Dashboard', 'Logout'];
 
 function Header() {
@@ -39,7 +39,7 @@ function Header() {
   };
 
   return (
-    <AppBar sx={{  background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',borderRadius:"16px"} }  position="static">
+    <AppBar sx={{  background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',minWidth:"400px",borderRadius:"16px"} }  position="static">
       <Container maxWidth="xxl">
         <Toolbar disableGutters>
         <Link href="/" passHref>
@@ -65,7 +65,8 @@ function Header() {
             Medgloss
           </Typography></div>
 
-     <div><Typography
+   
+      <Typography
             variant="h5"
             noWrap
             component="a"
@@ -82,7 +83,7 @@ function Header() {
             }}
           >
             Medgloss
-          </Typography></div>
+          </Typography>
  
           
           <Box sx={{ flexGrow: 1, display: { xs: 'none', md: 'flex' } }} >
@@ -104,7 +105,7 @@ function Header() {
             ))}
           </Box>
 
-          <Box sx={{ flexGrow: 0 }}>
+          <Box sx={{  }}>
             <Tooltip title="Open settings">
               <IconButton onClick={handleOpenUserMenu} sx={{ p:0 }}>
                 <Avatar alt="Remy Sharp" src="/static/images/avatar/2.jpg" />
@@ -134,7 +135,7 @@ function Header() {
               ))}
             </Menu>
           </Box>   
-            <Box sx={{ border:"2px solid blue",flexGrow: "inherit" , justifyContent:"flex-end",display: {  md: 'none' } }}>
+            <Box sx={{ flexGrow: "inherit" , justifyContent:"flex-end",display: {  md: 'none' } }}>
             <IconButton
               size="large"
               aria-label="account of current user"
@@ -142,9 +143,9 @@ function Header() {
               aria-haspopup="true"
               onClick={handleOpenNavMenu}
               color="inherit"
-              style={{border:"2px solid blue"}}
+              
             >
-              <MenuIcon  style={{border:"2px solid blue"}}/>
+              <MenuIcon  />
             </IconButton>
             <Menu
               id="menu-appbar"
