@@ -38,64 +38,139 @@ export const ServicesData = [
     {
         titleone: 'Question',
         titletwo: 'Bank',
-        link: '/services/mobile-app-development',
+        link: '/comingsoon',
         itemclass: 'blight',
         imgURL: images.services01,
     },
     {
         titleone: 'Virtual',
         titletwo: 'Surgery',
-        link: '/services/web-app-development',
+        link: '//comingsoon',
         itemclass: 'bgreen',
         imgURL: images.services02,
     },
     {
         titleone: 'Case',
         titletwo: 'Studies',
-        link: '/services/cloud-services',
+        link: '/comingsoon',
         itemclass: 'bdark',
         imgURL: images.services03,
     },
     {
         titleone: '3D',
         titletwo: 'Models',
-        link: '/services/software-testing',
+        link: '/comingsoon',
         itemclass: 'blight',
         imgURL: images.services04,
     },
     {
         titleone: 'Blogs',
         titletwo: '',
-        link: '/services/database-operations',
+        link: '/comingsoon',
         itemclass: 'bgreen',
         imgURL: images.services05,
     },
     {
         titleone: 'Mock',
         titletwo: 'Tests',
-        link: '/services/data-engineering',
+        link: '/comingsoon',
         itemclass: 'bdark',
         imgURL: images.services06,
     }, {
         titleone: 'Videos',
         titletwo: '',
-        link: '/services/internet-of-things',
+        link: '/comingsoon',
         itemclass: 'blight',
         imgURL: images.services07,
     }
 ]
 const CaseStudies = [
     {
+      text: 'A patient with chronic obstructive pulmonary disease (COPD) successfully managed their condition through a personalized treatment plan and lifestyle modifications.',
+      link: '/comingsoon',
+    },
+    {
+      text: 'A cancer survivor overcame their battle with the disease through a multidisciplinary approach, combining chemotherapy, radiation therapy, and supportive care.',
+      link: '/comingsoon',
+    },
+    {
+      text: 'A patient with type 2 diabetes achieved significant improvements in blood sugar control through a combination of medication, diet, and exercise.',
+      link: '/comingsoon',
+    },
+    {
+      text: 'A patient with chronic pain found relief through a comprehensive pain management program, incorporating physical therapy, medication, and psychological support.',
+      link: '/comingsoon',
+    },
+    {
+      text: 'A cardiac patient successfully recovered from a heart attack through timely intervention, rehabilitation, and lifestyle changes.',
+      link: '/comingsoon',
+    },
+  ];
+const CaseStudies1 = [
+    {
         text: 'A boutique e-commerce store was struggling to stand out in a competitive market.',
-        link: '/casestudy',
+        link: '/comingsoon',
     },
     {
         text: ' A tech startup required a compelling online presence to attract investors and customers.',
-        link: '/casestudy',
+        link: '/comingsoon',
     },
     {
         text: 'A local service provider lacked an online platform to connect with customers and streamline service offerings.',
-        link: '/casestudy',
+        link: '/comingsoon',
+    },
+];
+
+const CaseStudies2 = [
+    {
+      subject: 'Anatomy',
+      numQuestions: 50,
+      date: '2023-05-15',
+      difficulty: 'Intermediate',
+      attempters: ['John Doe', 'Jane Smith', 'Michael Johnson'],
+    },
+    {
+      subject: 'Physiology',
+      numQuestions: 75,
+      date: '2023-04-20',
+      difficulty: 'Advanced',
+      attempters: ['Emily Wilson', 'David Thompson', 'Sarah Davis'],
+    },
+    {
+      subject: 'Pharmacology',
+      numQuestions: 40,
+      date: '2023-03-10',
+      difficulty: 'Beginner',
+      attempters: ['Robert Brown', 'Jessica Taylor', 'Daniel Anderson'],
+    },
+  ];
+const CaseStudies3 = [
+    {
+        text: 'A boutique e-commerce store was struggling to stand out in a competitive market.',
+        link: '/comingsoon',
+    },
+    {
+        text: ' A tech startup required a compelling online presence to attract investors and customers.',
+        link: '/comingsoon',
+    },
+    {
+        text: 'A local service provider lacked an online platform to connect with customers and streamline service offerings.',
+        link: '/comingsoon',
+    },
+];
+
+const CaseStudies4 = [
+    {
+        text: 'A boutique e-commerce store was struggling to stand out in a competitive market.',
+        link: '/comingsoon',
+    },
+    {
+        text: ' A tech startup required a compelling online presence to attract investors and customers.',
+        link: '/comingsoon',
+    },
+    {
+        text: 'A local service provider lacked an online platform to connect with customers and streamline service offerings.',
+        link: '/comingsoon',
     },
 ];
 
@@ -166,24 +241,34 @@ const Team = [
 
 const Testimonials = [
     {
-        name: 'Vinay Yadav',
-        position: 'Marketing Director at Captivas',
-        testimonial: '"these guys just made my business grow by 100% , i am very happy working with these guys"',
+        name: 'Ananya Singh',
+        position: 'First-year, MBBS , AIIMS(Delhi)',
+        testimonial: '"Medgloss has completely transformed my learning experience. The high-quality clinical content and interactive 3D models make complex concepts so much easier to understand. And the best part? It\'s all free!"',
     },
     {
-        name: 'Kaira Verma',
-        position: 'Sr. Manager at himlayan club',
-        testimonial: '" have seen a significant value by the online presence of our club that was just possible due to these wonderful guys "',
+        name: 'Rohan Mehta',
+        position: 'First-year, MBBS , AIIMS(Delhi)',
+        testimonial: '"The conceptual and result-oriented question bank provided by Medgloss has been a game-changer for my studies. I feel much more prepared for exams and practicals, and I love the virtual surgery feature."',
     },
     {
-        name: 'Kavita',
-        position: 'Co-founder of vclub clothing brand',
-        testimonial: '"We have been working with NEW LIGHT Associates for last 6 months and have seen a significant increase in website traffic and leads as a result of their efforts. The team is professional, responsive, and truly cares about the success of our business. We highly recommend NEW LIGHT Associates to any company looking to grow their online presence."',
+        name: 'Priya Kapoor',
+        position: 'Fourth-year, MBBS ,SMS',
+        testimonial: '"Medgloss offers everything I need in one place. The case studies, virtual surgery, and doubt-asking form are incredibly helpful. It\'s amazing to have access to such high-quality resources for free."',
     },
     {
-        name: 'Jaideep Kumar',
-        position: 'Managing Director at takshilla insistute',
-        testimonial: '" have seen a huge increase in revenues and leads as a result of their efforts. The team is professional, responsive, and truly cares about the success of our business. We highly recommend NEW LIGHT Associates to any company looking to grow their online presence."',
+        name: 'Kajal yadav',
+        position: 'Second-year, MBBS, MS Ramaiah Medical College',
+        testimonial: '"Medgloss is my study buddy."',
+    },
+    {
+        name: 'Arjun Patel',
+        position: 'Second-year, MBBS, CMC Vellore',
+        testimonial: '"i got everything for free , which my friends use to buy , thanks medgloss."',
+    },
+    {
+        name: 'Deepak yadav',
+        position: 'SThird-year, MBBS, AIIMS Deoghar',
+        testimonial: '"As a medicos , resourses are important , Medgloss has all."',
     },
 ];
-export default { Menu, CaseStudies, WorkingProcess, Team, Testimonials, ServicesData };
+export default { Menu, CaseStudies, CaseStudies1 , CaseStudies2,WorkingProcess, CaseStudies3,  CaseStudies4,Team, Testimonials, ServicesData };

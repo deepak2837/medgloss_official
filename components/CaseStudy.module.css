@@ -1,0 +1,102 @@
+.caseStudies {
+    background:var(--color-highlight);
+    margin: 1rem auto;
+    border-radius: 45px;
+    color: #080202;
+    padding: 2rem 0 1.5rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    overflow-x: scroll;
+}
+
+.caseStudiesItem {
+    display: inline-block;
+    
+
+}
+.carouselItem {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .portraitImage {
+    max-width: 100%;
+    max-height: 100%;
+    height: auto;
+    width: auto;
+    object-fit: cover;
+  }
+  
+.sectionPadding {
+    margin: 130px 0;
+}
+
+@media(max-width: 768px) {
+    .sectionPadding {
+        margin: 50px 0;
+    }  
+}
+
+.caseStudies p {
+    padding: 0 1rem;
+}
+
+.caseStudies a {
+    color: black;
+    display: block;
+    text-decoration: none;
+    margin: 1rem;
+}
+
+.caseStudies a svg {
+    font-size: 26px;
+}
+
+.caseStudies a:hover {
+    color: rgb(7, 3, 3);
+   
+}
+
+@media(max-width: 768px) {
+
+
+    .caseStudies {
+        padding: 0;
+
+        background: transparent;
+        display: flex;
+        justify-content: flex-start; 
+        flex-wrap: nowrap;
+        overflow-x: scroll;
+        padding-bottom: 0;
+        margin: 0;
+      
+        
+    }
+
+    .caseStudiesItem {
+        display: inline-block;
+        min-width:96%;
+        border: none;
+        background: linear-gradient(45deg, #FE6B8B, #FF8E53, #FE6B8B, #FF8E53);
+        border-radius: 45px;
+        color: #ffffff;
+        padding: 2rem 1rem 1.5rem;
+        margin: 1rem;
+    }
+
+    .caseStudies p {
+        margin-top: 2rem;
+    }
+}
+
+
+.caseStudies div {
+    border-right: 1px solid #fff;
+}
+
+.caseStudies div:last-child {
+    border: none;
+}

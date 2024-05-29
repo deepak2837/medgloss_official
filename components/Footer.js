@@ -11,6 +11,7 @@ const Footer = () => {
   return (
     <Box
       sx={{
+        marginTop:"10px", 
         background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',
         color: 'white',
         py: 4,
@@ -18,9 +19,9 @@ const Footer = () => {
         borderRadius: '60px 60px 0px 0px',
       }}
     >
-      <Container style={{ display: 'flex', flexDirection: 'column' }} maxWidth="xxl">
+      <Container style={{display: 'flex', flexDirection: 'column' }} maxWidth="xxl">
         <Grid container spacing={4}>
-          <Grid item xs={12} sm={6} md={4}>
+          {/* <Grid item xs={12} sm={6} md={4}>
             <Typography variant="h6" gutterBottom>
               Imp. Links
             </Typography>
@@ -32,30 +33,29 @@ const Footer = () => {
             <Typography>Videos</Typography>
             <Typography>Mock Tests</Typography>
             <Typography>Previous year question papers</Typography>
-          </Grid>
+          </Grid> */}
           <Grid item xs={12} sm={6} md={4}>
-            <Typography variant="h6" gutterBottom>
-              Follow Us
-            </Typography>
-            <Box>
-              <Link href="#" passHref>
-                <FontAwesomeIcon icon={faFacebook} style={{ fontSize: '1.5rem', marginRight: '1rem' }} />
-              </Link>
-              <Link href="#" passHref>
-                <FontAwesomeIcon icon={faTwitter} style={{ fontSize: '1.5rem', marginRight: '1rem' }} />
-              </Link>
-              <Link href="#" passHref>
-                <FontAwesomeIcon icon={faInstagram} style={{ fontSize: '1.5rem', marginRight: '1rem' }} />
-              </Link>
-              <Link href="#" passHref>
-                <FontAwesomeIcon icon={faLinkedin} style={{ fontSize: '1.5rem' }} />
-              </Link>
-            </Box>
+         
           </Grid>
         </Grid>
         
         <Box mt={0} mb= {-3} textAlign="center">
-          <Typography variant="body2">Made in love with India</Typography>
+        <Typography variant="h6" gutterBottom>
+              Follow Us
+            </Typography>
+            <Box  >
+           
+              <Link href="https://x.com/medgloss" passHref>
+                <FontAwesomeIcon icon={faTwitter} style={{ fontSize: '1.5rem', marginRight: '1rem' }} />
+              </Link>
+              <Link href="https://www.instagram.com/medgloss_official/" passHref>
+                <FontAwesomeIcon icon={faInstagram} style={{ fontSize: '1.5rem', marginRight: '1rem' }} />
+              </Link>
+              <Link href="https://www.linkedin.com/company/medgloss" passHref>
+                <FontAwesomeIcon icon={faLinkedin} style={{ fontSize: '1.5rem' }} />
+              </Link>
+            </Box>
+          <Typography variant="body2">Made with ♥ in India</Typography>
           <Typography variant="body2">Copyright &copy; 2024 All rights reserved</Typography>
         </Box>
       </Container>

@@ -106,8 +106,8 @@ color: var(--color-dark);
 
 @media(max-width: 510px) {
     .img-services {
-        width: auto;
-        max-width: 60%;
+        width: 10%;
+        max-width: 50%;
         margin-top: -125px;
         margin-left:100px;
         z-index: 9999;

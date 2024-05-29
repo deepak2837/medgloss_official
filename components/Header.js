@@ -13,7 +13,7 @@ import Tooltip from '@mui/material/Tooltip';
 import MenuItem from '@mui/material/MenuItem';
 import AdbIcon from '@mui/icons-material/Adb';
 import MedglossLogo from './Medgloss';
-import './header.css'
+// import './header.css'
 import Link from 'next/link';
 
 const pages = ['Question Bank', 'Case Studies','Previous year papers','Mock Tests', 'Virtual Surgery'];
@@ -39,7 +39,7 @@ function Header() {
   };
 
   return (
-    <AppBar sx={{  background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',minWidth:"400px",borderRadius:"16px"} }  position="static">
+    <AppBar sx={{  background: 'linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%)',minWidth:"400px",borderRadius:"16px"} }  position="fixed">
       <Container maxWidth="xxl">
         <Toolbar disableGutters>
         <Link href="/" passHref>
@@ -129,8 +129,12 @@ function Header() {
             >
               {settings.map((setting) => (
                 <MenuItem key={setting} onClick={handleCloseUserMenu}>
-                 <div style={{width:"100vw" }}> <Typography   border="2px solid #FF8E53"
-      borderRadius="10px" padding="0.5rem"  textAlign="center">{setting}</Typography></div>
+                 <div style={{width:"100vw" }}> 
+                 <Link href="/comingsoon">
+                 <Typography   border="2px solid #FF8E53"
+      borderRadius="10px" padding="0.5rem"  textAlign="center">{setting}</Typography>
+      </Link>
+      </div>
                 </MenuItem>
               ))}
             </Menu>
@@ -167,7 +171,9 @@ function Header() {
             >
          {pages.map((page) => (
   <MenuItem key={page} onClick={handleCloseNavMenu}>
-    <div style={{width:"100rem" }} ><Typography
+    <div style={{width:"100rem" }} >
+    <Link href="/comingsoon">
+      <Typography
    
       border="2px solid #FF8E53"
       borderRadius="10px"
@@ -175,7 +181,8 @@ function Header() {
       padding="0.5rem 0" // Add padding to increase the height
     >
       {page}
-    </Typography></div>
+    </Typography>
+    </Link></div>
     
   </MenuItem>
 ))}

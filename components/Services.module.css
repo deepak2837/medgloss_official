@@ -3,8 +3,8 @@
 .blight {
     border: 2px solid var(--color-dark);
     margin: 1rem;
-    border: 1px solid #fe6b8b;
-    box-shadow: 0px 5px 0px #FF8E53;
+    border: 1px solid #2e181c;
+    box-shadow: 0px 5px 0px #e48551;
     border-radius: 45px;
     align-items: center;
     padding: 2rem;
@@ -45,11 +45,13 @@ margin-right:100px */
 }
 
 .bgreen {
-    background: linear-gradient(45deg, #FE6B8B, #FF8E53, #FE6B8B, #FF8E53);
+    background: white;
 }
 
 .blight {
-    background: linear-gradient(45deg, #FE6B8B, #FF8E53, #FE6B8B, #FF8E53);
+    background-color: #fff000;
+background-image: linear-gradient(315deg, #fff000 0%, #ed008c 74%);
+    
 }
 
 .bdark span,
@@ -123,16 +125,24 @@ color: var(--color-dark);
 
 }
 
-
-@media(max-width: 510px) {
+.img-services {
+    max-width: 100%;
+    margin-top: -30% !important;
+  }
+  
+  @media (max-width: 768px) {
     .img-services {
-        width: auto;
-        max-width: 60%;
-        margin-top: -125px;
-        /* margin-left:100px; */
-        z-index: 9999;
+      max-width: 50%;
     }
-
+  }
+  
+  @media (max-width: 480px) {
+    .img-services {
+      max-width: 30%;
+    }
+  }
+@media(max-width: 510px) {
+   
     .readmore {
         position: absolute;
         bottom: -01em;
