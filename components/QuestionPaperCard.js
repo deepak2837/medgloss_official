@@ -21,4 +21,4 @@ const QuestionPaperCard = ({ paper }) => {
     );
 };
 
-export default QuestionPaperCard;
+
