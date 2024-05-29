@@ -1,6 +1,6 @@
 import React from 'react';
 import { useRouter } from 'next/router';
-import Layout from '../../../components/Layout';
+
 
 const QuestionPaper = ({ paper }) => {
     const router = useRouter();
@@ -10,12 +10,12 @@ const QuestionPaper = ({ paper }) => {
     }
 
     return (
-        <Layout>
+       
             <div>
                 <h1>{paper.title}</h1>
                 {/* Display paper details */}
             </div>
-        </Layout>
+       
     );
 };
 

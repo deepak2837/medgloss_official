@@ -1,5 +1,5 @@
 import { useRouter } from 'next/router';
-import dbConnect from '../../../../../api/get-question-papers';
+
 export default function SemesterPaperPage() {
   const router = useRouter();
 
