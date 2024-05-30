@@ -256,7 +256,7 @@ const Testimonials = [
         testimonial: '"Medgloss offers everything I need in one place. The case studies, virtual surgery, and doubt-asking form are incredibly helpful. It\'s amazing to have access to such high-quality resources for free."',
     },
     {
-        name: 'Kajal yadav',
+        name: 'surbhi yadav',
         position: 'Second-year, MBBS, MS Ramaiah Medical College',
         testimonial: '"Medgloss is my study buddy."',
     },
@@ -266,8 +266,8 @@ const Testimonials = [
         testimonial: '"i got everything for free , which my friends use to buy , thanks medgloss."',
     },
     {
-        name: 'Deepak yadav',
-        position: 'SThird-year, MBBS, AIIMS Deoghar',
+        name: 'ryan yadav',
+        position: 'Third-year, MBBS, AIIMS Deoghar',
         testimonial: '"As a medicos , resourses are important , Medgloss has all."',
     },
 ];
