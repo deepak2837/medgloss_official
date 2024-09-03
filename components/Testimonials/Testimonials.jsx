@@ -9,7 +9,7 @@ import Headings from '../Headings/Headings';
 import data from '../../constant/data';
 
 const Testimonials = () => {
-  console.log(data);
+  // console.log(data);
 
   const sliderSettings = {
     dots: true,
@@ -22,12 +22,13 @@ const Testimonials = () => {
   };
 
   return (
-    <div className={`${styles['section-padding']} ${styles['testimonial-slider']}`} id="testimonials">
+    <div className='container'>
+    <div className= {`${styles['section-padding ']} ${styles['testimonial-slider']}`} id="testimonials ">
       <Headings
         title="Medicos Says"
        
       />
-      <div className={styles['testimonial-slider']}>
+      <div className={styles['testimonial-slider ']}>
         <Slider {...sliderSettings}>
           {data.Testimonials.map((item, index) => (
             <div key={index} className={styles['testimonial-item']}>
@@ -38,6 +39,7 @@ const Testimonials = () => {
           ))}
         </Slider>
       </div>
+    </div>
     </div>
   );
 };

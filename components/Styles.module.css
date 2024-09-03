@@ -17,7 +17,7 @@
   }
   
   .slide > img {
-    
+    max-height: 100vh;
     border-radius: 30px;
   }
   
@@ -37,5 +37,7 @@
       margin-right: 2%!important;
       
     }
-  
+  .slide > img {
+    height: 300px;
+  }
   }

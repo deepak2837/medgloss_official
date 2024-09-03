@@ -9,13 +9,13 @@ import styles from './Services.module.css'
 const Services = () => {
 
   return (
-    
-      <div id="services"  className="d-block pt-md-4 container ">
+   
+      <div id="services"  className="container ">
         <Headings title="Free For U" text="At our digital marketing agency, we offer a range of services to help businesses grow and succeed online. These services include" />
   
-        <div  className="row pr-5  border" >
+        <div  className="row mx-auto border" >
           {ServicesData.map(({ titleone, titletwo, link, itemclass, imgURL }, index) => (
-            <div  style={{border:"10px solid white ", width:"100%"}}  className="col-lg-6 col-12" key={index}> {/* Adjusted column classes */}
+            <div  style={{border:"10px solid white ", width:"100%"}}  className=" " key={index}> {/* Adjusted column classes */}
               <div  style={{ marginLeft:"-0px",width:"100%"}}  className={`${styles[itemclass]}`}>
                 <div className={`col-md-6 ${styles.box}`}>
                   <div className="mb-30">
@@ -30,6 +30,5 @@ const Services = () => {
           ))}
         </div>
       </div>
-   
   );}
 export default Services

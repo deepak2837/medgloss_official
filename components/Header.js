@@ -129,7 +129,7 @@ function Header() {
             >
               {settings.map((setting) => (
                 <MenuItem key={setting} onClick={handleCloseUserMenu}>
-                 <div style={{width:"100vw" }}> 
+                 <div style={{width:"10vw" }}> 
                  <Link href="/comingsoon">
                  <Typography   border="2px solid #FF8E53"
       borderRadius="10px" padding="0.5rem"  textAlign="center">{setting}</Typography>

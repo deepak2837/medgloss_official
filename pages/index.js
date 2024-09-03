@@ -29,11 +29,12 @@ const Home = () => {
 
     return (
         <Layout>
-          
-            <div style={{marginRight:"-10px"}}>
+         
+            <div className=''>
             <SlideShow imageLinks={imageLinks} />
             {/* <Carousel images={images} /> */}
                 {/* Filters */}
+                
                 <Services />
                <Testimonials />
                <CaseStudy />

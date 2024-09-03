@@ -9,6 +9,7 @@ import data from '../constant/data';
 
 const CaseStudies = () => {
   return (
+    <div className='container'>
     <div className={styles.sectionPadding} id="use-cases">
 
       <Headings title="Case Studies" text="Explore Real-Life Examples of Our Proven Digital Marketing Success through Our Case Studies" />
@@ -25,6 +26,7 @@ const CaseStudies = () => {
 
       <IconScroll />
 
+    </div>
     </div>
   );
 };

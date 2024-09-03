@@ -45,6 +45,7 @@ const CaseStudies = () => {
     '/3.png',
   ];
   return (
+    <div className='container'>
 <Carousel centerMode={true} responsive={responsive}>
 <img width="190px" height="300" src='/4.png' />
 <img width="190px" height="300" src='/5.png' />
@@ -53,6 +54,7 @@ const CaseStudies = () => {
   {/* <div>Item 3</div>
   <div>Item 4</div> */}
 </Carousel>
+</div>
   );
 };
 
