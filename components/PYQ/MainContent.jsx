@@ -23,13 +23,20 @@ const UniversityCards = ({ name, universityName }) => {
       className="border border-b-4 border-orange-500 p-4 rounded-3xl shadow-md cursor-pointer"
       onClick={handleClick}
     >
-      <div className="flex items-center gap-2">
-        <div className="w-[20%]">
-          <Image src={"/college.png"} alt="College Image" height={32} width={32} className="w-full" />
+      <div className="flex items-center gap-4">
+        <div className="w-8 h-8 md:w-16 md:h-16 flex-shrink-0">
+          <Image
+            src={"/college.png"}
+            alt="College Image"
+            height={100}
+            width={100}
+            className="object-contain"
+          />
         </div>
-        <h2 className="text-sm md:text-lg font-bold text-gray-800">{universityName}</h2>
+        <h2 className="text-sm md:text-base font-semibold text-gray-800 flex-1">
+          {universityName}
+        </h2>
       </div>
-     
     </div>
   );
 };
@@ -44,7 +51,7 @@ const MainContent = () => {
   };
 
   return (
-    <div className="bg-white h-screen ">
+    <div className="bg-white h-full ">
       <div className="lg:mx-56 md:mx-20 mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6 py-8 bg-white">
           {colleges.map((college, index) => (
