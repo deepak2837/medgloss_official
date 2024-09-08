@@ -8,7 +8,7 @@ const Pyq = ()=>{
     return(
     <div >
         <Header/>
-        <Filters/>
+        {/* <Filters/> */}
         <MainContent/>
     </div>
     )

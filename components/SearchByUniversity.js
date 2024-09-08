@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useRouter } from 'next/router';
+import { useRouter } from 'next/navigation';
 import Autosuggest from 'react-autosuggest';
 import collegesData from './mbbs_college_list.json'; // Import the JSON data
 
@@ -24,8 +24,7 @@ export default function SearchBar() {
   
     return matches;
   };
-  
-  
+
   const onSuggestionsFetchRequested = ({ value }) => {
     setSuggestions(getSuggestions(value));
   };
@@ -44,30 +43,41 @@ export default function SearchBar() {
         .replace(/,/g, '') // Remove commas
         .replace(/\s+/g, '-') // Replace spaces with dashes
         .toLowerCase(); // Convert to lowercase
-      router.push(`/university/${encodeURIComponent(collegeNameWithDashes)}`);
+      router.push(`/pyq/${encodeURIComponent(collegeNameWithDashes)}`);
     }
   };
 
   const getSuggestionValue = (suggestion) => suggestion.collegeName;
 
   const renderSuggestion = (suggestion) => (
-    <div onClick={() => handleSearch(suggestion)}>
+    <div
+      className="p-2 hover:bg-gray-200 cursor-pointer text-black" // Tailwind styles for suggestions
+      onClick={() => handleSearch(suggestion)}
+    >
       {suggestion.collegeName}
     </div>
   );
 
   return (
-    <Autosuggest
-      suggestions={suggestions}
-      onSuggestionsFetchRequested={onSuggestionsFetchRequested}
-      onSuggestionsClearRequested={onSuggestionsClearRequested}
-      getSuggestionValue={getSuggestionValue}
-      renderSuggestion={renderSuggestion}
-      inputProps={{
-        placeholder: 'Search for a college...',
-        value: query,
-        onChange: handleInputChange
-      }}
-    />
+    <div className="relative">
+      <Autosuggest
+        suggestions={suggestions}
+        onSuggestionsFetchRequested={onSuggestionsFetchRequested}
+        onSuggestionsClearRequested={onSuggestionsClearRequested}
+        getSuggestionValue={getSuggestionValue}
+        renderSuggestion={renderSuggestion}
+        inputProps={{
+          placeholder: 'Search for a college...',
+          value: query,
+          onChange: handleInputChange,
+          className: 'w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-400 focus:outline-none text-black' // Tailwind styles for input
+        }}
+        theme={{
+          container: 'relative',
+          suggestionsContainer: 'absolute z-10 w-full bg-white shadow-lg border border-gray-200 mt-1',
+          suggestionsList: 'm-0 p-0 list-none',
+        }}
+      />
+    </div>
   );
 }
