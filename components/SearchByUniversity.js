@@ -39,11 +39,13 @@ export default function SearchBar() {
 
   const handleSearch = (selectedCollege) => {
     if (selectedCollege) {
-      const collegeNameWithDashes = selectedCollege.collegeName
+      const collegeNameWithDashes = selectedCollege.universityName
         .replace(/,/g, '') // Remove commas
         .replace(/\s+/g, '-') // Replace spaces with dashes
         .toLowerCase(); // Convert to lowercase
-      router.push(`/pyq/${encodeURIComponent(collegeNameWithDashes)}`);
+      console.log(collegeNameWithDashes,"name");
+      
+      router.push(`/pyq/${encodeURIComponent(collegeNameWithDashes)}/coursename`);
     }
   };
 
@@ -59,7 +61,7 @@ export default function SearchBar() {
   );
 
   return (
-    <div className="relative">
+    <div className="relative ">
       <Autosuggest
         suggestions={suggestions}
         onSuggestionsFetchRequested={onSuggestionsFetchRequested}
@@ -70,7 +72,7 @@ export default function SearchBar() {
           placeholder: 'Search for a college...',
           value: query,
           onChange: handleInputChange,
-          className: 'w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-pink-400 focus:outline-none text-black' // Tailwind styles for input
+          className: 'w-full p-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-orange-400 focus:outline-none text-black' // Tailwind styles for input
         }}
         theme={{
           container: 'relative',
@@ -78,6 +80,7 @@ export default function SearchBar() {
           suggestionsList: 'm-0 p-0 list-none',
         }}
       />
+     
     </div>
   );
 }

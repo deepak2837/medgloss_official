@@ -9,7 +9,7 @@ const UniversityCards = ({ name, universityName }) => {
 
   const handleClick = () => {
     // Convert the university name to a URL-friendly format
-    const universitySlug = name
+    const universitySlug = universityName
       .replace(/,/g, "") // Remove commas
       .replace(/\s+/g, "-") // Replace spaces with dashes
       .toLowerCase(); // Convert to lowercase
@@ -27,15 +27,15 @@ const UniversityCards = ({ name, universityName }) => {
         <div className="w-[20%]">
           <Image src={"/college.png"} alt="College Image" height={32} width={32} className="w-full" />
         </div>
-        <h2 className="text-lg font-bold text-gray-800">{name}</h2>
+        <h2 className="text-sm md:text-lg font-bold text-gray-800">{universityName}</h2>
       </div>
-      <p className="text-gray-600 mt-2">University: {universityName}</p>
+     
     </div>
   );
 };
 
 const MainContent = () => {
-  const [visibleColleges, setVisibleColleges] = useState(9); // Initially show 9 colleges
+  const [visibleColleges, setVisibleColleges] = useState(15); // Initially show 9 colleges
   const [colleges, setColleges] = useState(mbbsCollegeList.slice(0, visibleColleges));
 
   const loadMoreColleges = () => {
@@ -44,7 +44,7 @@ const MainContent = () => {
   };
 
   return (
-    <div className="bg-white">
+    <div className="bg-white h-screen ">
       <div className="lg:mx-56 md:mx-20 mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6 py-8 bg-white">
           {colleges.map((college, index) => (
@@ -52,9 +52,9 @@ const MainContent = () => {
           ))}
         </div>
         {visibleColleges < mbbsCollegeList.length && (
-          <div className="flex justify-end my-3 ">
+          <div className="flex justify-end mt-3 mb-8 ">
             <button
-              className="bg-orange-500 text-white px-6 py-2 rounded-lg shadow hover:bg-red-600 focus:outline-none"
+              className="bg-custom-gradient text-white px-6 py-2 rounded-lg shadow hover:bg-red-600 focus:outline-none"
               onClick={loadMoreColleges}
             >
               Load More
