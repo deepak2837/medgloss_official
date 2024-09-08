@@ -3,10 +3,30 @@ import React, { useState, useEffect } from "react";
 import mbbsCollegeList from "../mbbs_college_list.json"; // Import the JSON data
 import { useParams } from "next/navigation"; // Import useParams for dynamic routes
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 
 const CourseCards = ({ name, universityName }) => {
+
+  const router = useRouter();
+  const handleClick = () => {
+    // Convert the university name to a URL-friendly format
+    const universitySlug = universityName
+      .replace(/,/g, "") // Remove commas
+      .replace(/\s+/g, "-") // Replace spaces with dashes
+      .toLowerCase(); // Convert to lowercase
+    const courseSlug = name
+      .replace(/,/g, "") // Remove commas
+      .replace(/\s+/g, "-") // Replace spaces with dashes
+      .toLowerCase(); // Convert to lowercase
+
+    // Navigate to /universityname/course
+    router.push(`/pyq/${encodeURIComponent(universitySlug)}/${courseSlug}/subject`);
+  };
+
   return (
-    <div className="border border-b-4 border-orange-500 p-2 md:p-4 rounded-3xl shadow-md">
+    <div className="border border-b-4 border-orange-500 p-2 md:p-4 rounded-3xl shadow-md"
+    onClick={handleClick}
+    >
       <div className="flex items-center gap-2">
         <div className="w-12 h-12">
           <Image src={"/college.png"} height={100} width={100} alt="Course Image" />
