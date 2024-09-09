@@ -23,7 +23,8 @@
         "collegeId": 825,
         "totalCount": 114,
         "course": ["MBBS", "MD", "MS"],
-        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Microbiology", "Forensic Medicine", "Community Medicine"]
+        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Microbiology", "Forensic Medicine", "Community Medicine"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 2,
@@ -48,7 +49,8 @@
         "collegeId": 725,
         "totalCount": 289,
         "course": ["MBBS", "BSc Nursing", "MD", "MS"],
-        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Microbiology", "Forensic Medicine", "Community Medicine"]
+        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Microbiology", "Forensic Medicine", "Community Medicine"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 3,
@@ -69,7 +71,8 @@
         "collegeId": 864,
         "totalCount": 414,
         "course": ["MBBS", "BSc Nursing", "MD"],
-        "subjects": ["General Surgery", "Pediatrics", "Ophthalmology", "Orthopedics", "ENT", "Obstetrics and Gynecology", "Dermatology", "Psychiatry"]
+        "subjects": ["General Surgery", "Pediatrics", "Ophthalmology", "Orthopedics", "ENT", "Obstetrics and Gynecology", "Dermatology", "Psychiatry"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 4,
@@ -91,7 +94,8 @@
         "collegeId": 79,
         "totalCount": 664,
         "course": ["MBBS", "MD", "MS", "BPT"],
-        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Ophthalmology", "ENT", "General Medicine"]
+        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Ophthalmology", "ENT", "General Medicine"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 5,
@@ -113,7 +117,8 @@
         "collegeId": 175,
         "totalCount": 914,
         "course": ["MBBS", "BDS", "MD", "MS", "MDS"],
-        "subjects": ["General Medicine", "Orthopedics", "Ophthalmology", "Psychiatry", "Radiology", "Pediatrics", "Dermatology", "Forensic Medicine"]
+        "subjects": ["General Medicine", "Orthopedics", "Ophthalmology", "Psychiatry", "Radiology", "Pediatrics", "Dermatology", "Forensic Medicine"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 6,
@@ -135,7 +140,8 @@
         "collegeId": 155,
         "totalCount": 1064,
         "course": ["MBBS", "MD", "MS"],
-        "subjects": ["Physiology", "Biochemistry", "Forensic Medicine", "General Surgery", "Ophthalmology", "Obstetrics and Gynecology", "Community Medicine", "Pathology"]
+        "subjects": ["Physiology", "Biochemistry", "Forensic Medicine", "General Surgery", "Ophthalmology", "Obstetrics and Gynecology", "Community Medicine", "Pathology"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 7,
@@ -157,7 +163,8 @@
         "collegeId": 218,
         "totalCount": 1214,
         "course": ["MBBS", "BDS", "MD"],
-        "subjects": ["General Surgery", "Ophthalmology", "Anesthesiology", "Orthopedics", "Pediatrics", "Radiology", "Psychiatry", "Pharmacology"]
+        "subjects": ["General Surgery", "Ophthalmology", "Anesthesiology", "Orthopedics", "Pediatrics", "Radiology", "Psychiatry", "Pharmacology"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 8,
@@ -179,7 +186,8 @@
         "collegeId": 122,
         "totalCount": 1314,
         "course": ["MBBS"],
-        "subjects": ["Forensic Medicine", "Community Medicine", "General Medicine", "ENT", "Obstetrics and Gynecology", "Pediatrics", "Anatomy", "Biochemistry"]
+        "subjects": ["Forensic Medicine", "Community Medicine", "General Medicine", "ENT", "Obstetrics and Gynecology", "Pediatrics", "Anatomy", "Biochemistry"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 10,
@@ -214,7 +222,8 @@
         "contactEmail": null,
         "collegeContacts": [],
         "course": ["MBBS", "BDS", "MD"],
-        "subjects": ["Microbiology", "Pathology", "Pharmacology", "Pediatrics", "ENT", "General Medicine", "Dermatology", "Anesthesiology"]
+        "subjects": ["Microbiology", "Pathology", "Pharmacology", "Pediatrics", "ENT", "General Medicine", "Dermatology", "Anesthesiology"],
+        "years":["2023","2022","2021","2020","2019","2018","2017","2016","2015"]
     },
     {
         "index": 11,

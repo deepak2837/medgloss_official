@@ -62,7 +62,7 @@ const SubjectMain = () => {
   
   return (
     <div className="bg-white h-screen">
-      <div className="lg:mx-28 md:mx-20 mx-auto">
+      <div className="lg:mx-56 md:mx-32 mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 py-8 bg-white">
           {subjects.length > 0 ? (
             subjects.map((subject, index) => (

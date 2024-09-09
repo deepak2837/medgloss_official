@@ -1,18 +1,19 @@
 "use client"
 import React from 'react';
-import SearchBySubject from '../SearchBySubject';
+import SearchByYear from '../SearchByYear';
 
 
-const SubjectHeader = () => {
+
+const YearHeader = () => {
   return (
     <div className=' bg-white'>
     <header className="lg:mx-56 md:mx-32 mx-auto bg-custom-gradient p-4 flex items-center justify-between rounded-2xl">
       <div className="relative w-full max-w-xl mx-auto">
-        <SearchBySubject/>
+        <SearchByYear/>
       </div>
     </header>
     </div>
   );
 };
 
-export default SubjectHeader;
+export default YearHeader;
