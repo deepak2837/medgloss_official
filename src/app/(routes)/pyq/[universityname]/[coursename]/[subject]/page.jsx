@@ -1,11 +1,12 @@
-import Header from "../../../../../../../components/PYQ/Header";
+
+import SubjectHeader from "../../../../../../../components/PYQ/SubjectHeader";
 import SubjectMain from "../../../../../../../components/PYQ/SubjectMain";
 
 
 const Page = () => {
   return (
     <div >
-      <Header/>
+      <SubjectHeader/>
       <SubjectMain/>
     </div>
   );

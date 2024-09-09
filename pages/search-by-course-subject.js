@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import SearchByCourseSubject from '../components/SearchByCourseSubject';
+import SearchByCourseSubject from '../components/SearchBySubject';
 
 const SearchByCourseSubjectPage = () => {
     return (

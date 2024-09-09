@@ -22,7 +22,8 @@
         "stateName": "Andaman Nicobar Islands",
         "collegeId": 825,
         "totalCount": 114,
-        "course": ["MBBS", "MD", "MS"]
+        "course": ["MBBS", "MD", "MS"],
+        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Microbiology", "Forensic Medicine", "Community Medicine"]
     },
     {
         "index": 2,
@@ -46,7 +47,8 @@
         "stateName": "Andhra Pradesh",
         "collegeId": 725,
         "totalCount": 289,
-        "course": ["MBBS", "BSc Nursing", "MD", "MS"]
+        "course": ["MBBS", "BSc Nursing", "MD", "MS"],
+        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Microbiology", "Forensic Medicine", "Community Medicine"]
     },
     {
         "index": 3,
@@ -66,7 +68,8 @@
         "stateName": "Andhra Pradesh",
         "collegeId": 864,
         "totalCount": 414,
-        "course": ["MBBS", "BSc Nursing", "MD"]
+        "course": ["MBBS", "BSc Nursing", "MD"],
+        "subjects": ["General Surgery", "Pediatrics", "Ophthalmology", "Orthopedics", "ENT", "Obstetrics and Gynecology", "Dermatology", "Psychiatry"]
     },
     {
         "index": 4,
@@ -87,7 +90,8 @@
         "stateName": "Andhra Pradesh",
         "collegeId": 79,
         "totalCount": 664,
-        "course": ["MBBS", "MD", "MS", "BPT"]
+        "course": ["MBBS", "MD", "MS", "BPT"],
+        "subjects": ["Anatomy", "Physiology", "Biochemistry", "Pathology", "Pharmacology", "Ophthalmology", "ENT", "General Medicine"]
     },
     {
         "index": 5,
@@ -108,7 +112,8 @@
         "stateName": "Andhra Pradesh",
         "collegeId": 175,
         "totalCount": 914,
-        "course": ["MBBS", "BDS", "MD", "MS", "MDS"]
+        "course": ["MBBS", "BDS", "MD", "MS", "MDS"],
+        "subjects": ["General Medicine", "Orthopedics", "Ophthalmology", "Psychiatry", "Radiology", "Pediatrics", "Dermatology", "Forensic Medicine"]
     },
     {
         "index": 6,
@@ -129,7 +134,8 @@
         "stateName": "Andhra Pradesh",
         "collegeId": 155,
         "totalCount": 1064,
-        "course": ["MBBS", "MD", "MS"]
+        "course": ["MBBS", "MD", "MS"],
+        "subjects": ["Physiology", "Biochemistry", "Forensic Medicine", "General Surgery", "Ophthalmology", "Obstetrics and Gynecology", "Community Medicine", "Pathology"]
     },
     {
         "index": 7,
@@ -150,7 +156,8 @@
         "stateName": "Andhra Pradesh",
         "collegeId": 218,
         "totalCount": 1214,
-        "course": ["MBBS", "BDS", "MD"]
+        "course": ["MBBS", "BDS", "MD"],
+        "subjects": ["General Surgery", "Ophthalmology", "Anesthesiology", "Orthopedics", "Pediatrics", "Radiology", "Psychiatry", "Pharmacology"]
     },
     {
         "index": 8,
@@ -171,7 +178,8 @@
         "stateName": "Andhra Pradesh",
         "collegeId": 122,
         "totalCount": 1314,
-        "course": ["MBBS"]
+        "course": ["MBBS"],
+        "subjects": ["Forensic Medicine", "Community Medicine", "General Medicine", "ENT", "Obstetrics and Gynecology", "Pediatrics", "Anatomy", "Biochemistry"]
     },
     {
         "index": 10,
@@ -204,7 +212,9 @@
         "contactMobileNo": null,
         "contactFax": null,
         "contactEmail": null,
-        "collegeContacts": []
+        "collegeContacts": [],
+        "course": ["MBBS", "BDS", "MD"],
+        "subjects": ["Microbiology", "Pathology", "Pharmacology", "Pediatrics", "ENT", "General Medicine", "Dermatology", "Anesthesiology"]
     },
     {
         "index": 11,
