@@ -52,14 +52,14 @@ const MainContent = () => {
 
   return (
     <div className="bg-white h-full ">
-      <div className="lg:mx-56 md:mx-20 mx-auto">
+      <div className="lg:mx-56 md:mx-[90px] mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6 py-8 bg-white">
           {colleges.map((college, index) => (
             <UniversityCards key={index} name={college.collegeName} universityName={college.universityName} />
           ))}
         </div>
         {visibleColleges < mbbsCollegeList.length && (
-          <div className="flex justify-end mt-3 mb-8 ">
+          <div className="flex justify-end mr-8 mt-3 mb-8 ">
             <button
               className="bg-custom-gradient text-white px-6 py-2 rounded-lg shadow hover:bg-red-600 focus:outline-none"
               onClick={loadMoreColleges}

@@ -26,6 +26,7 @@
     "formidable": "^3.5.1",
     "googleapis": "^61.0.0",
     "i": "^0.3.7",
+    "lucide-react": "^0.439.0",
     "mongodb": "^6.6.2",
     "mongoose": "^8.3.2",
     "multer": "^1.4.5-lts.1",
