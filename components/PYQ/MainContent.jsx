@@ -4,6 +4,13 @@ import mbbsCollegeList from "../mbbs_college_list.json"; // Import the JSON data
 import Image from "next/image";
 import { useRouter } from "next/navigation";
 
+// Remove duplicate universities based on the universityName field
+const uniqueCollegeList = Array.from(
+  new Set(mbbsCollegeList.map((college) => college.universityName))
+).map((universityName) =>
+  mbbsCollegeList.find((college) => college.universityName === universityName)
+);
+
 const UniversityCards = ({ name, universityName }) => {
   const router = useRouter();
 
@@ -42,23 +49,23 @@ const UniversityCards = ({ name, universityName }) => {
 };
 
 const MainContent = () => {
-  const [visibleColleges, setVisibleColleges] = useState(15); // Initially show 9 colleges
-  const [colleges, setColleges] = useState(mbbsCollegeList.slice(0, visibleColleges));
+  const [visibleColleges, setVisibleColleges] = useState(15); // Initially show 15 colleges
+  const [colleges, setColleges] = useState(uniqueCollegeList.slice(0, visibleColleges));
 
   const loadMoreColleges = () => {
     setVisibleColleges((prev) => prev + 9); // Show 9 more colleges on each click
-    setColleges(mbbsCollegeList.slice(0, visibleColleges + 9));
+    setColleges(uniqueCollegeList.slice(0, visibleColleges + 9));
   };
 
   return (
-    <div className="bg-white h-full ">
+    <div className="bg-white h-full md:mb-20 mb-5">
       <div className="lg:mx-56 md:mx-[90px] mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6 py-8 bg-white">
           {colleges.map((college, index) => (
             <UniversityCards key={index} name={college.collegeName} universityName={college.universityName} />
           ))}
         </div>
-        {visibleColleges < mbbsCollegeList.length && (
+        {visibleColleges < uniqueCollegeList.length && (
           <div className="flex justify-end mr-8 mt-3 mb-8 ">
             <button
               className="bg-custom-gradient text-white px-6 py-2 rounded-lg shadow hover:bg-red-600 focus:outline-none"

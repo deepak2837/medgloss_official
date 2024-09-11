@@ -68,7 +68,7 @@ const CourseMain = () => {
   };
 
   return (
-    <div className="bg-white h-screen">
+    <div className="bg-white h-full md:mb-20 mb-5">
       <div className="lg:mx-56 md:mx-[90px] mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 p-6 py-8 bg-white">
           {courses.map((course, index) => (

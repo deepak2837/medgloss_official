@@ -19,7 +19,7 @@ export default function RootLayout({ children }) {
         <main className="mt-24 bg-white">
         {children}
         </main>
-        <footer>
+        <footer className="">
        <NewFooter/>
         </footer>
         </body>

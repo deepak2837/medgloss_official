@@ -61,7 +61,7 @@ const SubjectMain = () => {
   }, [selectedCourse]);
   
   return (
-    <div className="bg-white h-screen">
+    <div className="bg-white h-full md:mb-20 mb-5">
       <div className="lg:mx-56 md:mx-28 mx-auto">
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 py-8 bg-white">
           {subjects.length > 0 ? (

@@ -13,7 +13,8 @@ const Layout = ({ children }) => {
   <main className={styles.mainContent}>{children}</main>
 </div> */}
 <main >{children}</main>
-      <Footer />
+<footer> <Footer /></footer>
+     
     </div>
   );
 };

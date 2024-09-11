@@ -46,7 +46,7 @@ const YearMain = () => {
   }, [selectedSubject]);
 
   return (
-    <div className="bg-white h-screen">
+    <div className="bg-white h-full md:mb-20 mb-5">
       <div className="lg:mx-56 md:mx-[90px] mx-auto">
         <div className="flex flex-col md:flex-row justify-start items-center mt-5 mx-4 gap-5">
         <button className="px-3 py-3 bg-custom-gradient  rounded-3xl text-white text-sm"> Download All Papers</button>
