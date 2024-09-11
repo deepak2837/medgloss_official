@@ -6,15 +6,15 @@ export default function NewFooter() {
       <div className="max-w-4xl mx-auto text-center">
         <h2 className="text-2xl font-bold mb-4">Follow Us</h2>
         <div className="flex justify-center space-x-4 mb-4">
-          <a href="#" className="hover:text-gray-200">
+          <a href="https://x.com/medgloss" className="hover:text-gray-200">
             <Twitter size={24} />
             <span className="sr-only">Twitter</span>
           </a>
-          <a href="#" className="hover:text-gray-200">
+          <a href="https://www.instagram.com/medgloss_official/" className="hover:text-gray-200">
             <Instagram size={24} />
             <span className="sr-only">Instagram</span>
           </a>
-          <a href="#" className="hover:text-gray-200">
+          <a href="https://www.linkedin.com/company/medgloss" className="hover:text-gray-200">
             <Linkedin size={24} />
             <span className="sr-only">LinkedIn</span>
           </a>
