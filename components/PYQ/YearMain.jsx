@@ -3,16 +3,46 @@ import React, { useState, useEffect } from "react";
 import mbbsCollegeList from "../mbbs_college_list.json"; // Your JSON data
 import { useRouter } from "next/navigation";
 import { useParams } from "next/navigation"; // To get dynamic slug
-import Link from "next/link";
 import { Download, Eye } from "lucide-react";
 
-const YearCards = ({ name }) => {
+const YearCards = ({ name, universityName, coursename, subjectName }) => {
+
+  const router = useRouter();
+  console.log(universityName,name,coursename,subjectName);
+  const handleClick = () => {
+    
+    // Convert the university name to a URL-friendly format
+    
+    
+    const universitySlug = universityName
+      .replace(/,/g, "") // Remove commas
+      .replace(/\s+/g, "-") // Replace spaces with dashes
+      .toLowerCase(); // Convert to lowercase
+    const courseSlug = coursename
+      .replace(/,/g, "") // Remove commas
+      .replace(/\s+/g, "-") // Replace spaces with dashes
+      .toLowerCase(); // Convert to lowercase
+
+      const subSlug = subjectName
+      .replace(/,/g, "") // Remove commas
+      .replace(/\s+/g, "-") // Replace spaces with dashes
+      .toLowerCase(); // Convert to lowercas
+      const yearSlug = name
+      .replace(/,/g, "") // Remove commas
+      .replace(/\s+/g, "-") // Replace spaces with dashes
+      .toLowerCase(); // Convert to lowercas
+
+    // Navigate to /universityname/course
+    router.push(`/pyq/${encodeURIComponent(universitySlug)}/${courseSlug}/${subSlug}/${yearSlug}/download`);
+  };
+
   return (
-    <div className="border border-b-4 border-orange-500 p-4 rounded-3xl shadow-md cursor-pointer flex justify-between">
+    <div className="border border-b-4 border-orange-500 p-4 rounded-3xl shadow-md cursor-pointer flex justify-between" 
+    >
       <h2 className="text-lg font-bold text-gray-800">{name}</h2>
       <div className="flex items-center gap-4">
       <button><Eye /></button>
-      <button><Download /></button>
+      <button onClick={handleClick}><Download /></button>
       </div>
     </div>
   );
@@ -24,7 +54,7 @@ const YearMain = () => {
   const params = useParams(); // Get dynamic slug from URL
   const selectedSubject = params.subject; // Assume the slug format is subjectSlug
   // console.log(selectedSubject);
-  
+  // console.log(params)  
   const handleClick = ()=>{
     router.back()
   }
@@ -37,7 +67,7 @@ const YearMain = () => {
         .map((subjectName) => subjectName.toLowerCase().replace(/\s+/g, "-"))
         .includes(selectedSubject)
     );
-    console.log(collegeData,"data");
+    // console.log(collegeData,"data");
     
     // If college and subject are found, set the yearsArray from the JSON data
     if (collegeData && collegeData.years) {
@@ -57,7 +87,7 @@ const YearMain = () => {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4 py-8 bg-white">
           {years.length > 0 ? (
             years.map((year, index) => (
-              <YearCards key={index} name={year} />
+              <YearCards key={index} name={year} universityName={params.universityname} coursename={params.coursename} subjectName={params.subject} />
             ))
           ) : (
             <p>No years available for this subject.</p>
