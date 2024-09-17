@@ -2,3 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+.layout-container {
+    display: flex;
+  }
+  
+  main {
+    flex-grow: 1;
+    z-index: 1;
+  }
+  
+  aside {
+    z-index: 0;
+  }
+  

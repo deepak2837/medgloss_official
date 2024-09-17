@@ -41,8 +41,8 @@ const YearCards = ({ name, universityName, coursename, subjectName }) => {
     >
       <h2 className="text-lg font-bold text-gray-800">{name}</h2>
       <div className="flex items-center gap-4">
-      <button><Eye /></button>
-      <button onClick={handleClick}><Download /></button>
+      <button onClick={handleClick}><Eye /></button>
+      <button ><Download /></button>
       </div>
     </div>
   );

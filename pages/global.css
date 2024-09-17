@@ -2,7 +2,23 @@
 @tailwind components;
 @tailwind utilities;
 
+
 body {
-    margin: 0 !important;
-    padding: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+@media (min-width: 640px) { 
+  body {
+    margin-left: 100px !important;
+    margin-right: 100px !important;
   }
+}
+
+@media (min-width: 1024px) { 
+  body {
+    margin-left: 200px !important;
+    margin-right: 200px !important;
+  }
+}

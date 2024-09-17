@@ -18,7 +18,8 @@
   }
   
   .slide > img {
-    max-height: 100vh;
+    margin-top: 50px;
+    max-height: 500px;
     border-radius: 30px;
   }
   

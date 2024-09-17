@@ -2,6 +2,7 @@ import { Inter } from "next/font/google";
 import "./globals.css";
 import Header from "../../components/Header";
 import NewFooter from "../../components/PYQ/NewFooter";
+import Aside from "../../components/Aside";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -16,10 +17,13 @@ export default function RootLayout({ children }) {
      
       <body className={inter.className} >
       <header ><Header/></header>
-        <main className="mt-24 bg-white">
+      <div>
+      <Aside/>
+        <main className="mt-24 bg-white z-10">
         {children}
         </main>
-        <footer className="">
+        </div>
+        <footer className="z-10 relative">
        <NewFooter/>
         </footer>
         </body>

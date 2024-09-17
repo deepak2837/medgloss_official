@@ -13,7 +13,7 @@ import CaseStudy1 from '../components/CaseStudy1.jsx';
 import CaseStudy2 from '../components/CaseStudy2.jsx';
 import CaseStudy3 from '../components/CaseStudy3.jsx';
 import CaseStudy4 from '../components/CaseStudy4.jsx';
-// import './global.css';
+import './global.css';
 const images = [
     '/whymedgloss.png',
     '/Your, Study Buddy.png',
