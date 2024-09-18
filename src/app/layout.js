@@ -22,7 +22,7 @@ export default function RootLayout({ children }) {
       <div>
       <Aside/>
    <TopAdSection/>
-        <main className="mt-5 bg-white z-10">
+        <main className="mt-5 md:mx-8 md:mt-28 bg-white min-h-screen z-10">
         {children}
         </main>
         <BottomAdSection/>

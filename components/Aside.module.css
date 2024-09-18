@@ -11,13 +11,14 @@
   pointer-events: none;
   padding: 0 10px;
   box-sizing: border-box;
+ 
 }
 
 .leftAd, .rightAd {
-  width: 200px;
-  height: 600px; /* Set a fixed height for the ads */
+  width: 230px;
+  height: 730px; /* Set a fixed height for the ads */
   position: fixed; /* Fix the ads in the viewport */
-  top: 120px; /* Adjust top as needed */
+  top: 100px; /* Adjust top as needed */
   padding: 10px;
   border: 1px solid #ccc;
   background-color: #f0f0f0;

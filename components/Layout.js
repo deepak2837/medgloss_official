@@ -18,7 +18,7 @@ const Layout = ({ children }) => {
       <TopAdSection/>
 <main >{children}</main>
       <BottomAdSection/>
-<footer className='z-10 relative'><NewFooter/> </footer>
+<footer className='z-10 mt-5 relative'><NewFooter/> </footer>
      
     </div>
   );
