@@ -8,10 +8,10 @@ const Aside = () => {
   
     <div className={styles.asideContainer}>
       {/* Left Ad Section */}
-      <div className={styles.leftAd}>Left Ad Section</div>
+      <div className={styles.leftAd}></div>
 
       {/* Right Ad Section */}
-      <div className={styles.rightAd}>Right Ad Section</div>
+      <div className={styles.rightAd}></div>
     </div>
   );
 };

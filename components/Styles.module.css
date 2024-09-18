@@ -32,11 +32,12 @@
   @media screen and (max-width: 768px) {
     .slideshow {
       /* border:10px solid red; */
-      margin-top: 50px;
+      margin-top: 0px !important;
       height:290px !important;
       /* width:140% !important; */
       margin-left: 2%!important;
       margin-right: 2%!important;
+
       
     }
   .slide > img {

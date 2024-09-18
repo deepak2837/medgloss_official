@@ -3,6 +3,8 @@ import "./globals.css";
 import Header from "../../components/Header";
 import NewFooter from "../../components/PYQ/NewFooter";
 import Aside from "../../components/Aside";
+import TopAdSection from "../../components/AdSection/TopAdSection";
+import BottomAdSection from "../../components/AdSection/BottomAdSection";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -19,9 +21,11 @@ export default function RootLayout({ children }) {
       <header ><Header/></header>
       <div>
       <Aside/>
-        <main className="mt-24 bg-white z-10">
+   <TopAdSection/>
+        <main className="mt-5 bg-white z-10">
         {children}
         </main>
+        <BottomAdSection/>
         </div>
         <footer className="z-10 relative">
        <NewFooter/>

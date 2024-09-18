@@ -1,0 +1,36 @@
+/* General styles for ads on mobile */
+.adSection {
+    display: none; /* Initially hidden for larger devices */
+    width: 100%;
+   
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    border: 1px solid #ccc;
+    overflow: hidden;
+  }
+  
+  /* Ad placed below the navbar and above the main content */
+ 
+  
+  /* Ad placed above the footer and below the main content */
+  .adSection.bottomAd {
+    position: relative;
+  }
+  
+ 
+  
+  /* Individual ad elements */
+  .adContent img {
+    width: 100%;
+    max-width: 300px; /* Set the maximum width for individual ads */
+    margin: 0 10px; /* Spacing between ads */
+  }
+  
+  /* Display the ad sections on small devices (e.g., max-width: 768px) */
+  @media (max-width: 768px) {
+    .adSection {
+      display: block; /* Show the ad sections on mobile */
+    }
+  }
+  

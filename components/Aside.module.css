@@ -3,7 +3,7 @@
   display: flex;
   justify-content: space-between;
   position: fixed;
-  top: 0; 
+  /* top: 10; */
   left: 0;
   bottom: 0;
   width: 100%;
@@ -15,12 +15,22 @@
 
 .leftAd, .rightAd {
   width: 200px;
-  height: 100vh;
+  height: 600px; /* Set a fixed height for the ads */
+  position: fixed; /* Fix the ads in the viewport */
+  top: 120px; /* Adjust top as needed */
   padding: 10px;
   border: 1px solid #ccc;
   background-color: #f0f0f0;
   overflow: auto;
   pointer-events: auto; /* Allows interaction with sidebar content */
+}
+
+.leftAd {
+  left: 10px; /* Fix the left ad to the left side */
+}
+
+.rightAd {
+  right: 10px; /* Fix the right ad to the right side */
 }
 
 /* Hide the aside container for small devices (e.g., max-width: 768px) */

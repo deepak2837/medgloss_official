@@ -14,6 +14,7 @@ import CaseStudy2 from '../components/CaseStudy2.jsx';
 import CaseStudy3 from '../components/CaseStudy3.jsx';
 import CaseStudy4 from '../components/CaseStudy4.jsx';
 import './global.css';
+import TopAdSection from '../components/AdSection/TopAdSection';
 const images = [
     '/whymedgloss.png',
     '/Your, Study Buddy.png',
@@ -29,8 +30,8 @@ const Home = () => {
 
     return (
         <Layout>
-         
-            <div className=''>
+        
+            <div className='main'>
             <SlideShow imageLinks={imageLinks} />
             {/* <Carousel images={images} /> */}
                 {/* Filters */}
