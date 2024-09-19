@@ -3,9 +3,9 @@ import { Twitter, Instagram, Linkedin } from "lucide-react"
 export default function NewFooter() {
   return (
     <footer className="bg-custom-gradient border-2  border-red-500 text-white p-3 rounded-t-[52px] flex flex-col items-center">
-      <div className="max-w-4xl mx-auto text-center my-3">
-        <h2 className="text-2xl font-bold mb-4">Follow Us</h2>
-        <div className="flex justify-center space-x-4 mb-4">
+      <div className="max-w-4xl mx-auto text-center ">
+        <h2 className="text-2xl font-bold mb-2">Follow Us</h2>
+        <div className="flex justify-center space-x-4 mb-2">
           <a href="https://x.com/medgloss" className="hover:text-gray-200">
             <Twitter size={24} />
             <span className="sr-only">Twitter</span>
