@@ -41,7 +41,7 @@ const Services = () => {
                   <BsFillArrowUpRightCircleFill /> Learn more
                 </a>
               </div>
-              <div className="w-full md:w-1/2 text-center md:text-right">
+              <div className="w-1/3 md:w-1/2 text-center md:text-right">
                 <img
                   src={imgURL.src}
                   alt={titleone}
