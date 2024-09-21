@@ -39,7 +39,7 @@ const Home = () => {
                 <Services />
                <Testimonials />
                <CaseStudy />
-               <CaseStudy1 />
+               <CaseStudy1/>
                {/* <CaseStudy2/>
                <CaseStudy3 />
                <CaseStudy4 /> */}
@@ -50,6 +50,8 @@ const Home = () => {
                     <a href="/search-by-year" className="page-link">Search by Year</a>
                     <a href="/combination-of-filters" className="page-link">Combination of Filters</a>
                 </div> */}
+
+                {/* <Tea /> */}
             </div>
         </Layout>
     );

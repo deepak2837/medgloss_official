@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.section-white {
+    text-align: center;
+}
+
+.section-title {
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+
+.swipper-slide {
+    width: 35%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+/* For mobile devices */
+@media only screen and (max-width: 768px) {
+    .swipper-slide {
+        width: 50%;
+    }
+}
