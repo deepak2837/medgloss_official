@@ -5,14 +5,14 @@ import { BsFillArrowUpRightCircleFill } from 'react-icons/bs';
 
 const Services = () => {
   return (
-    <div id="services" className="container mx-auto py-8">
+    <div id="services" className="container mx-5 py-8">
       {/* Heading Section */}
       <Headings
         title="Free For U"
         text="At our digital marketing agency, we offer a range of services to help businesses grow and succeed online. These services include"
       />
 
-      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mx-4 border-0">
+      <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 mx-auto border-0">
         {ServicesData.map(({ titleone, titletwo, link, itemclass, imgURL }, index) => (
           <div
             key={index}
