@@ -1,0 +1,25 @@
+.card {
+    border: 1px solid; /* Border */
+    border-bottom-width: 4px; /* Border bottom width */
+    border-color: #f97316; /* Tailwind's orange-500 */
+    padding: 1rem; /* Tailwind's p-4 */
+    border-radius: 1.5rem; /* Tailwind's rounded-3xl */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Tailwind's shadow-md */
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between; /* Justify content */
+    align-items: center; /* Align items */
+  }
+  
+  .title {
+    font-size: 1.125rem; /* Tailwind's text-lg */
+    font-weight: 700; /* Tailwind's font-bold */
+    color: #4a5568; /* Tailwind's text-gray-800 */
+  }
+  
+  .buttonContainer {
+    display: flex;
+    align-items: center; /* Align items in the button container */
+    gap: 1rem; /* Tailwind's gap-4 */
+  }
+  

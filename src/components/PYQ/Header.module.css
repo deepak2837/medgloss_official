@@ -1,0 +1,39 @@
+/* Header.module.css */
+.header {
+  /* position: fixed; */
+    background: linear-gradient(45deg, #FE6B8B 30%, #FF8E53 90%);
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 20px;
+    margin-bottom: 20;
+    
+  }
+
+  
+  
+
+
+  
+  .searchContainer {
+    position: relative;
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+    /* background-attachment: fixed; */
+    /* z-index: 1; */
+  }
+  
+  .bgWhite {
+    background-color: white;
+    margin-bottom: 20;
+  }
+  
+  /* Media query for small screens */
+  @media (max-width: 640px) {
+    .header {
+      margin-top: 20px; /* For small screens (smaller than 640px) */
+    }
+  }
+  

@@ -1,0 +1,42 @@
+/* General styles for aside container and ads */
+.asideContainer {
+    display: flex;
+    justify-content: space-between;
+    position: fixed;
+    /* top: 10; */
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: 1;
+    pointer-events: none;
+    padding: 0 10px;
+    box-sizing: border-box;
+   
+  }
+  
+  .leftAd, .rightAd {
+    width: 230px;
+    height: 730px; /* Set a fixed height for the ads */
+    position: fixed; /* Fix the ads in the viewport */
+    top: 100px; /* Adjust top as needed */
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    overflow: auto;
+    pointer-events: auto; /* Allows interaction with sidebar content */
+  }
+  
+  .leftAd {
+    left: 10px; /* Fix the left ad to the left side */
+  }
+  
+  .rightAd {
+    right: 10px; /* Fix the right ad to the right side */
+  }
+  
+  /* Hide the aside container for small devices (e.g., max-width: 768px) */
+  @media (max-width: 768px) {
+    .asideContainer {
+      display: none; /* Completely hide the aside container */
+    }
+  }
